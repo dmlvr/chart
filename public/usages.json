@@ -1,0 +1,8633 @@
+[
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "25.04.2024",
+    "usage_input": 341077,
+    "usage_output": 362155
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "16.03.2024",
+    "usage_input": 417722,
+    "usage_output": 501333
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "09.03.2024",
+    "usage_input": 380748,
+    "usage_output": 406048
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "19.01.2024",
+    "usage_input": 393049,
+    "usage_output": 377605
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "01.05.2024",
+    "usage_input": 383668,
+    "usage_output": 370412
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "24.03.2024",
+    "usage_input": 388740,
+    "usage_output": 324312
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "14.01.2024",
+    "usage_input": 377736,
+    "usage_output": 424166
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "08.05.2024",
+    "usage_input": 282753,
+    "usage_output": 342668
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "28.04.2024",
+    "usage_input": 332973,
+    "usage_output": 326044
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "11.04.2024",
+    "usage_input": 337364,
+    "usage_output": 407177
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "27.01.2024",
+    "usage_input": 501254,
+    "usage_output": 447056
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "16.03.2024",
+    "usage_input": 422511,
+    "usage_output": 386063
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "18.04.2024",
+    "usage_input": 451398,
+    "usage_output": 444839
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "05.03.2024",
+    "usage_input": 431039,
+    "usage_output": 415925
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "22.02.2024",
+    "usage_input": 406508,
+    "usage_output": 411930
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "28.04.2024",
+    "usage_input": 351511,
+    "usage_output": 348871
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "15.04.2024",
+    "usage_input": 390305,
+    "usage_output": 417972
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "06.01.2024",
+    "usage_input": 481033,
+    "usage_output": 404373
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "02.05.2024",
+    "usage_input": 425259,
+    "usage_output": 442431
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "28.03.2024",
+    "usage_input": 404014,
+    "usage_output": 346109
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "07.01.2024",
+    "usage_input": 475895,
+    "usage_output": 490982
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "03.02.2024",
+    "usage_input": 457201,
+    "usage_output": 461210
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "15.02.2024",
+    "usage_input": 478066,
+    "usage_output": 501303
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "14.03.2024",
+    "usage_input": 427378,
+    "usage_output": 454050
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "24.01.2024",
+    "usage_input": 394819,
+    "usage_output": 342715
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "29.01.2024",
+    "usage_input": 339073,
+    "usage_output": 374557
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "27.02.2024",
+    "usage_input": 517894,
+    "usage_output": 495335
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "08.05.2024",
+    "usage_input": 331325,
+    "usage_output": 351575
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "15.02.2024",
+    "usage_input": 494129,
+    "usage_output": 534319
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "16.01.2024",
+    "usage_input": 421521,
+    "usage_output": 429163
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "23.03.2024",
+    "usage_input": 459931,
+    "usage_output": 436136
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "29.01.2024",
+    "usage_input": 403910,
+    "usage_output": 386106
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "19.03.2024",
+    "usage_input": 367295,
+    "usage_output": 314571
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "08.05.2024",
+    "usage_input": 352425,
+    "usage_output": 426873
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "20.04.2024",
+    "usage_input": 441702,
+    "usage_output": 427830
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "05.02.2024",
+    "usage_input": 424095,
+    "usage_output": 424776
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "24.01.2024",
+    "usage_input": 401604,
+    "usage_output": 421189
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "23.01.2024",
+    "usage_input": 471908,
+    "usage_output": 505456
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "09.05.2024",
+    "usage_input": 423446,
+    "usage_output": 456536
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "15.03.2024",
+    "usage_input": 301617,
+    "usage_output": 332811
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "23.03.2024",
+    "usage_input": 488203,
+    "usage_output": 484251
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "25.03.2024",
+    "usage_input": 432231,
+    "usage_output": 406839
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "20.01.2024",
+    "usage_input": 397219,
+    "usage_output": 374306
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "12.03.2024",
+    "usage_input": 418464,
+    "usage_output": 500779
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "14.02.2024",
+    "usage_input": 331918,
+    "usage_output": 343037
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "06.02.2024",
+    "usage_input": 353867,
+    "usage_output": 336122
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "21.01.2024",
+    "usage_input": 387857,
+    "usage_output": 429028
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "01.03.2024",
+    "usage_input": 408034,
+    "usage_output": 444354
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "02.04.2024",
+    "usage_input": 537391,
+    "usage_output": 480585
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "03.03.2024",
+    "usage_input": 397733,
+    "usage_output": 434341
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "11.03.2024",
+    "usage_input": 409683,
+    "usage_output": 403413
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "14.03.2024",
+    "usage_input": 428188,
+    "usage_output": 449009
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "04.01.2024",
+    "usage_input": 385359,
+    "usage_output": 410772
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "18.02.2024",
+    "usage_input": 536085,
+    "usage_output": 531967
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "19.01.2024",
+    "usage_input": 392042,
+    "usage_output": 379173
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "25.02.2024",
+    "usage_input": 455960,
+    "usage_output": 425903
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "04.05.2024",
+    "usage_input": 362907,
+    "usage_output": 333313
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "17.01.2024",
+    "usage_input": 274223,
+    "usage_output": 319258
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "13.02.2024",
+    "usage_input": 374717,
+    "usage_output": 401406
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "24.02.2024",
+    "usage_input": 450410,
+    "usage_output": 430283
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "03.01.2024",
+    "usage_input": 485560,
+    "usage_output": 409184
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "24.01.2024",
+    "usage_input": 343221,
+    "usage_output": 384189
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "02.04.2024",
+    "usage_input": 390449,
+    "usage_output": 373674
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "14.05.2024",
+    "usage_input": 405698,
+    "usage_output": 472011
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "05.01.2024",
+    "usage_input": 430228,
+    "usage_output": 429060
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "10.02.2024",
+    "usage_input": 384659,
+    "usage_output": 408290
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "29.01.2024",
+    "usage_input": 399371,
+    "usage_output": 428073
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "26.01.2024",
+    "usage_input": 433636,
+    "usage_output": 449845
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "21.02.2024",
+    "usage_input": 397677,
+    "usage_output": 452396
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "22.03.2024",
+    "usage_input": 363919,
+    "usage_output": 380832
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "08.05.2024",
+    "usage_input": 259850,
+    "usage_output": 319902
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "25.04.2024",
+    "usage_input": 414787,
+    "usage_output": 387865
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "20.03.2024",
+    "usage_input": 466523,
+    "usage_output": 389391
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "11.01.2024",
+    "usage_input": 409430,
+    "usage_output": 432805
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "21.03.2024",
+    "usage_input": 405994,
+    "usage_output": 507033
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "29.03.2024",
+    "usage_input": 479148,
+    "usage_output": 526988
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "18.02.2024",
+    "usage_input": 447167,
+    "usage_output": 457232
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "20.04.2024",
+    "usage_input": 390794,
+    "usage_output": 435846
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "13.03.2024",
+    "usage_input": 474034,
+    "usage_output": 472075
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "25.04.2024",
+    "usage_input": 459661,
+    "usage_output": 436312
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "20.04.2024",
+    "usage_input": 406949,
+    "usage_output": 389428
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "21.04.2024",
+    "usage_input": 408673,
+    "usage_output": 399527
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "09.05.2024",
+    "usage_input": 408293,
+    "usage_output": 440565
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "08.03.2024",
+    "usage_input": 478586,
+    "usage_output": 462540
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "01.04.2024",
+    "usage_input": 311111,
+    "usage_output": 368662
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "28.01.2024",
+    "usage_input": 559480,
+    "usage_output": 497113
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "26.01.2024",
+    "usage_input": 430199,
+    "usage_output": 447101
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "19.02.2024",
+    "usage_input": 403289,
+    "usage_output": 375010
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "08.03.2024",
+    "usage_input": 388718,
+    "usage_output": 432996
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "19.02.2024",
+    "usage_input": 393427,
+    "usage_output": 428154
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "31.01.2024",
+    "usage_input": 406243,
+    "usage_output": 426705
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "03.01.2024",
+    "usage_input": 358187,
+    "usage_output": 384464
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "13.04.2024",
+    "usage_input": 380063,
+    "usage_output": 424690
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "25.01.2024",
+    "usage_input": 441762,
+    "usage_output": 467020
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "15.03.2024",
+    "usage_input": 493476,
+    "usage_output": 437120
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "29.02.2024",
+    "usage_input": 391087,
+    "usage_output": 448028
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "10.01.2024",
+    "usage_input": 385801,
+    "usage_output": 414892
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "11.04.2024",
+    "usage_input": 427824,
+    "usage_output": 387317
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "08.01.2024",
+    "usage_input": 526276,
+    "usage_output": 512268
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "29.02.2024",
+    "usage_input": 408074,
+    "usage_output": 444310
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "19.01.2024",
+    "usage_input": 378115,
+    "usage_output": 429084
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "11.04.2024",
+    "usage_input": 482873,
+    "usage_output": 442922
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "12.02.2024",
+    "usage_input": 463492,
+    "usage_output": 425862
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "28.02.2024",
+    "usage_input": 388821,
+    "usage_output": 402048
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "23.02.2024",
+    "usage_input": 379614,
+    "usage_output": 382856
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "31.01.2024",
+    "usage_input": 444116,
+    "usage_output": 458155
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "24.01.2024",
+    "usage_input": 458369,
+    "usage_output": 421617
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "13.01.2024",
+    "usage_input": 418896,
+    "usage_output": 401622
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "01.01.2024",
+    "usage_input": 421268,
+    "usage_output": 425176
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "14.04.2024",
+    "usage_input": 448990,
+    "usage_output": 397643
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "06.01.2024",
+    "usage_input": 346348,
+    "usage_output": 399911
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "17.02.2024",
+    "usage_input": 461775,
+    "usage_output": 445933
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "08.01.2024",
+    "usage_input": 464629,
+    "usage_output": 432382
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "03.03.2024",
+    "usage_input": 423530,
+    "usage_output": 404065
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "08.04.2024",
+    "usage_input": 367318,
+    "usage_output": 387724
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "12.05.2024",
+    "usage_input": 440571,
+    "usage_output": 407634
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "22.01.2024",
+    "usage_input": 412860,
+    "usage_output": 419601
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "08.04.2024",
+    "usage_input": 373302,
+    "usage_output": 392407
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "25.03.2024",
+    "usage_input": 400351,
+    "usage_output": 404276
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "12.02.2024",
+    "usage_input": 389307,
+    "usage_output": 386779
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "05.03.2024",
+    "usage_input": 438196,
+    "usage_output": 481316
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "12.05.2024",
+    "usage_input": 431366,
+    "usage_output": 439196
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "23.03.2024",
+    "usage_input": 466249,
+    "usage_output": 452018
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "08.03.2024",
+    "usage_input": 318684,
+    "usage_output": 312102
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "01.05.2024",
+    "usage_input": 401281,
+    "usage_output": 305125
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "25.02.2024",
+    "usage_input": 383278,
+    "usage_output": 339494
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "15.04.2024",
+    "usage_input": 544890,
+    "usage_output": 485055
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "18.03.2024",
+    "usage_input": 325015,
+    "usage_output": 321671
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "16.05.2024",
+    "usage_input": 414791,
+    "usage_output": 416247
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "02.02.2024",
+    "usage_input": 340433,
+    "usage_output": 407684
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "23.02.2024",
+    "usage_input": 460274,
+    "usage_output": 460174
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "02.04.2024",
+    "usage_input": 329071,
+    "usage_output": 302690
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "21.01.2024",
+    "usage_input": 292441,
+    "usage_output": 316852
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "02.01.2024",
+    "usage_input": 380610,
+    "usage_output": 424195
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "18.02.2024",
+    "usage_input": 337396,
+    "usage_output": 381415
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "01.04.2024",
+    "usage_input": 456328,
+    "usage_output": 450719
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "29.04.2024",
+    "usage_input": 452732,
+    "usage_output": 476336
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "27.04.2024",
+    "usage_input": 437336,
+    "usage_output": 439916
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "10.05.2024",
+    "usage_input": 382494,
+    "usage_output": 436147
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "16.02.2024",
+    "usage_input": 367711,
+    "usage_output": 358034
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "20.01.2024",
+    "usage_input": 478827,
+    "usage_output": 427521
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "19.01.2024",
+    "usage_input": 449998,
+    "usage_output": 471137
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "07.05.2024",
+    "usage_input": 460204,
+    "usage_output": 451950
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "01.03.2024",
+    "usage_input": 368630,
+    "usage_output": 349836
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "07.02.2024",
+    "usage_input": 292196,
+    "usage_output": 291592
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "12.04.2024",
+    "usage_input": 450344,
+    "usage_output": 440899
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "13.03.2024",
+    "usage_input": 440593,
+    "usage_output": 429772
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "09.04.2024",
+    "usage_input": 365457,
+    "usage_output": 358734
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "11.05.2024",
+    "usage_input": 501958,
+    "usage_output": 487018
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "30.01.2024",
+    "usage_input": 445147,
+    "usage_output": 436248
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "06.02.2024",
+    "usage_input": 441026,
+    "usage_output": 472128
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "10.03.2024",
+    "usage_input": 387238,
+    "usage_output": 319319
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "30.04.2024",
+    "usage_input": 334950,
+    "usage_output": 405975
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "24.03.2024",
+    "usage_input": 427826,
+    "usage_output": 456520
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "16.01.2024",
+    "usage_input": 342141,
+    "usage_output": 339870
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "12.05.2024",
+    "usage_input": 369222,
+    "usage_output": 347396
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "20.01.2024",
+    "usage_input": 381185,
+    "usage_output": 426782
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "11.02.2024",
+    "usage_input": 468168,
+    "usage_output": 485904
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "18.03.2024",
+    "usage_input": 341671,
+    "usage_output": 339669
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "29.02.2024",
+    "usage_input": 374837,
+    "usage_output": 393897
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "13.02.2024",
+    "usage_input": 337840,
+    "usage_output": 364689
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "08.05.2024",
+    "usage_input": 407507,
+    "usage_output": 393175
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "31.03.2024",
+    "usage_input": 430962,
+    "usage_output": 462402
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "18.04.2024",
+    "usage_input": 367523,
+    "usage_output": 338027
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "18.04.2024",
+    "usage_input": 483398,
+    "usage_output": 413583
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "19.03.2024",
+    "usage_input": 380961,
+    "usage_output": 402668
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "08.02.2024",
+    "usage_input": 409943,
+    "usage_output": 477429
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "11.03.2024",
+    "usage_input": 340852,
+    "usage_output": 348178
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "21.02.2024",
+    "usage_input": 572191,
+    "usage_output": 595438
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "27.03.2024",
+    "usage_input": 445855,
+    "usage_output": 440355
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "13.01.2024",
+    "usage_input": 390434,
+    "usage_output": 366322
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "16.02.2024",
+    "usage_input": 434852,
+    "usage_output": 429037
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "01.05.2024",
+    "usage_input": 379480,
+    "usage_output": 425101
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "09.01.2024",
+    "usage_input": 386001,
+    "usage_output": 377499
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "22.02.2024",
+    "usage_input": 318261,
+    "usage_output": 368624
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "28.01.2024",
+    "usage_input": 388386,
+    "usage_output": 385540
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "18.03.2024",
+    "usage_input": 470378,
+    "usage_output": 469342
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "24.01.2024",
+    "usage_input": 414837,
+    "usage_output": 381858
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "20.03.2024",
+    "usage_input": 473498,
+    "usage_output": 436349
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "18.01.2024",
+    "usage_input": 429780,
+    "usage_output": 457236
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "28.03.2024",
+    "usage_input": 472681,
+    "usage_output": 440254
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "08.04.2024",
+    "usage_input": 453509,
+    "usage_output": 451131
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "23.02.2024",
+    "usage_input": 411491,
+    "usage_output": 443212
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "16.04.2024",
+    "usage_input": 471780,
+    "usage_output": 431455
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "14.01.2024",
+    "usage_input": 371248,
+    "usage_output": 381369
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "13.01.2024",
+    "usage_input": 416756,
+    "usage_output": 419811
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "02.02.2024",
+    "usage_input": 374193,
+    "usage_output": 373678
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "26.02.2024",
+    "usage_input": 367772,
+    "usage_output": 377911
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "06.05.2024",
+    "usage_input": 392420,
+    "usage_output": 342889
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "22.04.2024",
+    "usage_input": 415439,
+    "usage_output": 400867
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "21.03.2024",
+    "usage_input": 390212,
+    "usage_output": 415565
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "09.01.2024",
+    "usage_input": 432383,
+    "usage_output": 352459
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "01.03.2024",
+    "usage_input": 528424,
+    "usage_output": 443085
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "15.03.2024",
+    "usage_input": 362417,
+    "usage_output": 412049
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "01.04.2024",
+    "usage_input": 506591,
+    "usage_output": 463303
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "26.01.2024",
+    "usage_input": 380553,
+    "usage_output": 379218
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "09.03.2024",
+    "usage_input": 438612,
+    "usage_output": 365832
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "13.04.2024",
+    "usage_input": 365375,
+    "usage_output": 401307
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "13.02.2024",
+    "usage_input": 406446,
+    "usage_output": 450504
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "17.04.2024",
+    "usage_input": 431804,
+    "usage_output": 433032
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "02.01.2024",
+    "usage_input": 452988,
+    "usage_output": 437047
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "07.02.2024",
+    "usage_input": 359558,
+    "usage_output": 322900
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "12.05.2024",
+    "usage_input": 429666,
+    "usage_output": 485312
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "18.03.2024",
+    "usage_input": 351161,
+    "usage_output": 329391
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "22.02.2024",
+    "usage_input": 383649,
+    "usage_output": 352579
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "09.05.2024",
+    "usage_input": 452033,
+    "usage_output": 397348
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "08.03.2024",
+    "usage_input": 448283,
+    "usage_output": 367244
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "16.04.2024",
+    "usage_input": 453048,
+    "usage_output": 483119
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "09.01.2024",
+    "usage_input": 391050,
+    "usage_output": 401587
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "19.02.2024",
+    "usage_input": 434127,
+    "usage_output": 469196
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "12.02.2024",
+    "usage_input": 326516,
+    "usage_output": 378065
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "07.04.2024",
+    "usage_input": 448289,
+    "usage_output": 419427
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "29.02.2024",
+    "usage_input": 513992,
+    "usage_output": 511984
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "04.03.2024",
+    "usage_input": 340665,
+    "usage_output": 360398
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "03.03.2024",
+    "usage_input": 423429,
+    "usage_output": 448319
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "19.01.2024",
+    "usage_input": 466047,
+    "usage_output": 508341
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "26.02.2024",
+    "usage_input": 346293,
+    "usage_output": 416356
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "13.03.2024",
+    "usage_input": 397155,
+    "usage_output": 403480
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "27.01.2024",
+    "usage_input": 385163,
+    "usage_output": 400469
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "10.01.2024",
+    "usage_input": 336122,
+    "usage_output": 319206
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "05.05.2024",
+    "usage_input": 466966,
+    "usage_output": 511126
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "10.01.2024",
+    "usage_input": 437532,
+    "usage_output": 430210
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "03.01.2024",
+    "usage_input": 450539,
+    "usage_output": 460424
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "31.03.2024",
+    "usage_input": 373291,
+    "usage_output": 433487
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "09.02.2024",
+    "usage_input": 415441,
+    "usage_output": 388016
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "22.03.2024",
+    "usage_input": 319292,
+    "usage_output": 341080
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "03.04.2024",
+    "usage_input": 385821,
+    "usage_output": 369648
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "06.03.2024",
+    "usage_input": 290110,
+    "usage_output": 290963
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "21.03.2024",
+    "usage_input": 436619,
+    "usage_output": 472757
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "21.02.2024",
+    "usage_input": 449372,
+    "usage_output": 389943
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "13.05.2024",
+    "usage_input": 423955,
+    "usage_output": 425434
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "14.05.2024",
+    "usage_input": 465971,
+    "usage_output": 504452
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "26.02.2024",
+    "usage_input": 455076,
+    "usage_output": 384023
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "21.03.2024",
+    "usage_input": 378341,
+    "usage_output": 377851
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "27.03.2024",
+    "usage_input": 468786,
+    "usage_output": 380583
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "01.05.2024",
+    "usage_input": 316100,
+    "usage_output": 396823
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "05.02.2024",
+    "usage_input": 488925,
+    "usage_output": 512219
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "13.05.2024",
+    "usage_input": 506504,
+    "usage_output": 446617
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "12.01.2024",
+    "usage_input": 446570,
+    "usage_output": 420406
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "06.05.2024",
+    "usage_input": 360845,
+    "usage_output": 370591
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "08.02.2024",
+    "usage_input": 479005,
+    "usage_output": 435385
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "23.02.2024",
+    "usage_input": 433051,
+    "usage_output": 385985
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "23.03.2024",
+    "usage_input": 401744,
+    "usage_output": 419932
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "04.03.2024",
+    "usage_input": 406306,
+    "usage_output": 394314
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "15.04.2024",
+    "usage_input": 422587,
+    "usage_output": 410690
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "22.02.2024",
+    "usage_input": 381216,
+    "usage_output": 364934
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "30.03.2024",
+    "usage_input": 382892,
+    "usage_output": 390019
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "20.04.2024",
+    "usage_input": 375930,
+    "usage_output": 351046
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "11.03.2024",
+    "usage_input": 414284,
+    "usage_output": 413860
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "09.01.2024",
+    "usage_input": 462032,
+    "usage_output": 450233
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "27.02.2024",
+    "usage_input": 349434,
+    "usage_output": 373896
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "11.04.2024",
+    "usage_input": 322209,
+    "usage_output": 350589
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "21.01.2024",
+    "usage_input": 392678,
+    "usage_output": 351880
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "11.05.2024",
+    "usage_input": 395409,
+    "usage_output": 456210
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "23.01.2024",
+    "usage_input": 403872,
+    "usage_output": 397326
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "17.01.2024",
+    "usage_input": 448505,
+    "usage_output": 426721
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "07.03.2024",
+    "usage_input": 386916,
+    "usage_output": 392766
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "23.04.2024",
+    "usage_input": 513529,
+    "usage_output": 524030
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "05.02.2024",
+    "usage_input": 342454,
+    "usage_output": 407455
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "14.03.2024",
+    "usage_input": 426651,
+    "usage_output": 464413
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "02.05.2024",
+    "usage_input": 440248,
+    "usage_output": 378311
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "28.02.2024",
+    "usage_input": 377220,
+    "usage_output": 401292
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "09.04.2024",
+    "usage_input": 315411,
+    "usage_output": 262576
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "05.05.2024",
+    "usage_input": 424274,
+    "usage_output": 441025
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "02.02.2024",
+    "usage_input": 370821,
+    "usage_output": 433336
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "30.01.2024",
+    "usage_input": 407927,
+    "usage_output": 422810
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "17.04.2024",
+    "usage_input": 416108,
+    "usage_output": 390203
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "10.03.2024",
+    "usage_input": 297660,
+    "usage_output": 356772
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "05.04.2024",
+    "usage_input": 335738,
+    "usage_output": 419575
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "12.03.2024",
+    "usage_input": 319721,
+    "usage_output": 363139
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "06.02.2024",
+    "usage_input": 356475,
+    "usage_output": 335595
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "23.03.2024",
+    "usage_input": 423790,
+    "usage_output": 383406
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "13.04.2024",
+    "usage_input": 412711,
+    "usage_output": 401899
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "26.03.2024",
+    "usage_input": 339339,
+    "usage_output": 361470
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "22.04.2024",
+    "usage_input": 435582,
+    "usage_output": 372358
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "27.04.2024",
+    "usage_input": 534966,
+    "usage_output": 517178
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "01.02.2024",
+    "usage_input": 411576,
+    "usage_output": 475683
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "04.02.2024",
+    "usage_input": 494835,
+    "usage_output": 484117
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "26.04.2024",
+    "usage_input": 436955,
+    "usage_output": 400292
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "23.02.2024",
+    "usage_input": 416546,
+    "usage_output": 390429
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "22.01.2024",
+    "usage_input": 398706,
+    "usage_output": 448707
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "29.02.2024",
+    "usage_input": 333479,
+    "usage_output": 327591
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "09.02.2024",
+    "usage_input": 375469,
+    "usage_output": 352077
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "09.04.2024",
+    "usage_input": 342239,
+    "usage_output": 388091
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "11.01.2024",
+    "usage_input": 446203,
+    "usage_output": 445185
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "22.01.2024",
+    "usage_input": 394540,
+    "usage_output": 377983
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "13.04.2024",
+    "usage_input": 305394,
+    "usage_output": 329992
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "08.01.2024",
+    "usage_input": 376196,
+    "usage_output": 386604
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "18.02.2024",
+    "usage_input": 414576,
+    "usage_output": 429718
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "02.05.2024",
+    "usage_input": 462313,
+    "usage_output": 406797
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "11.05.2024",
+    "usage_input": 419674,
+    "usage_output": 430800
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "19.03.2024",
+    "usage_input": 375863,
+    "usage_output": 376349
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "10.04.2024",
+    "usage_input": 282792,
+    "usage_output": 265690
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "28.03.2024",
+    "usage_input": 400434,
+    "usage_output": 414526
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "06.02.2024",
+    "usage_input": 431330,
+    "usage_output": 429623
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "05.03.2024",
+    "usage_input": 468401,
+    "usage_output": 453395
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "30.04.2024",
+    "usage_input": 390659,
+    "usage_output": 448897
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "04.02.2024",
+    "usage_input": 417970,
+    "usage_output": 378463
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "30.01.2024",
+    "usage_input": 347705,
+    "usage_output": 373915
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "31.03.2024",
+    "usage_input": 463588,
+    "usage_output": 409419
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "14.05.2024",
+    "usage_input": 478204,
+    "usage_output": 455213
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "05.03.2024",
+    "usage_input": 466482,
+    "usage_output": 397122
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "23.02.2024",
+    "usage_input": 458868,
+    "usage_output": 478355
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "10.05.2024",
+    "usage_input": 392296,
+    "usage_output": 385089
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "07.04.2024",
+    "usage_input": 418930,
+    "usage_output": 411249
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "08.05.2024",
+    "usage_input": 415086,
+    "usage_output": 420024
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "04.05.2024",
+    "usage_input": 336343,
+    "usage_output": 366365
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "19.04.2024",
+    "usage_input": 342122,
+    "usage_output": 373512
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "08.02.2024",
+    "usage_input": 497337,
+    "usage_output": 475259
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "10.05.2024",
+    "usage_input": 376208,
+    "usage_output": 391322
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "15.03.2024",
+    "usage_input": 421842,
+    "usage_output": 422868
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "28.03.2024",
+    "usage_input": 426579,
+    "usage_output": 451105
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "27.02.2024",
+    "usage_input": 470312,
+    "usage_output": 466064
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "08.02.2024",
+    "usage_input": 364621,
+    "usage_output": 341791
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "12.05.2024",
+    "usage_input": 338298,
+    "usage_output": 371048
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "13.03.2024",
+    "usage_input": 429481,
+    "usage_output": 392717
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "14.01.2024",
+    "usage_input": 476158,
+    "usage_output": 450894
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "15.05.2024",
+    "usage_input": 378098,
+    "usage_output": 466718
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "10.05.2024",
+    "usage_input": 395222,
+    "usage_output": 479027
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "31.01.2024",
+    "usage_input": 387364,
+    "usage_output": 377153
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "24.02.2024",
+    "usage_input": 343401,
+    "usage_output": 401514
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "31.03.2024",
+    "usage_input": 410757,
+    "usage_output": 418390
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "07.02.2024",
+    "usage_input": 447333,
+    "usage_output": 448565
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "15.03.2024",
+    "usage_input": 439607,
+    "usage_output": 477255
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "06.04.2024",
+    "usage_input": 371499,
+    "usage_output": 466180
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "04.01.2024",
+    "usage_input": 356993,
+    "usage_output": 387395
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "03.02.2024",
+    "usage_input": 366550,
+    "usage_output": 325980
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "20.02.2024",
+    "usage_input": 341043,
+    "usage_output": 385123
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "23.04.2024",
+    "usage_input": 394232,
+    "usage_output": 450862
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "03.02.2024",
+    "usage_input": 415925,
+    "usage_output": 444235
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "28.02.2024",
+    "usage_input": 395725,
+    "usage_output": 383642
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "16.03.2024",
+    "usage_input": 457368,
+    "usage_output": 458846
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "04.02.2024",
+    "usage_input": 398624,
+    "usage_output": 400525
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "25.01.2024",
+    "usage_input": 420288,
+    "usage_output": 399162
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "22.01.2024",
+    "usage_input": 360021,
+    "usage_output": 347323
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "07.05.2024",
+    "usage_input": 335325,
+    "usage_output": 369531
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "30.04.2024",
+    "usage_input": 519721,
+    "usage_output": 493812
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "27.01.2024",
+    "usage_input": 384982,
+    "usage_output": 344288
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "28.03.2024",
+    "usage_input": 315767,
+    "usage_output": 405341
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "01.01.2024",
+    "usage_input": 466869,
+    "usage_output": 469700
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "09.03.2024",
+    "usage_input": 383682,
+    "usage_output": 416441
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "18.04.2024",
+    "usage_input": 412257,
+    "usage_output": 442957
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "17.02.2024",
+    "usage_input": 461294,
+    "usage_output": 480652
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "05.01.2024",
+    "usage_input": 428018,
+    "usage_output": 441728
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "13.02.2024",
+    "usage_input": 456890,
+    "usage_output": 474659
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "25.02.2024",
+    "usage_input": 438248,
+    "usage_output": 418627
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "10.03.2024",
+    "usage_input": 283519,
+    "usage_output": 307105
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "16.03.2024",
+    "usage_input": 446995,
+    "usage_output": 421049
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "30.03.2024",
+    "usage_input": 544738,
+    "usage_output": 539117
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "31.01.2024",
+    "usage_input": 402209,
+    "usage_output": 378582
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "30.03.2024",
+    "usage_input": 500903,
+    "usage_output": 468965
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "29.03.2024",
+    "usage_input": 368504,
+    "usage_output": 380337
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "01.04.2024",
+    "usage_input": 327690,
+    "usage_output": 360967
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "08.02.2024",
+    "usage_input": 453994,
+    "usage_output": 363966
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "01.02.2024",
+    "usage_input": 487351,
+    "usage_output": 413734
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "04.03.2024",
+    "usage_input": 443326,
+    "usage_output": 414278
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "28.01.2024",
+    "usage_input": 377054,
+    "usage_output": 334712
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "11.05.2024",
+    "usage_input": 489671,
+    "usage_output": 492020
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "23.02.2024",
+    "usage_input": 345257,
+    "usage_output": 361136
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "29.04.2024",
+    "usage_input": 372760,
+    "usage_output": 371145
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "12.01.2024",
+    "usage_input": 477893,
+    "usage_output": 508479
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "18.01.2024",
+    "usage_input": 451119,
+    "usage_output": 457005
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "03.04.2024",
+    "usage_input": 470055,
+    "usage_output": 432108
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "25.01.2024",
+    "usage_input": 382647,
+    "usage_output": 384590
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "27.03.2024",
+    "usage_input": 371793,
+    "usage_output": 371006
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "03.01.2024",
+    "usage_input": 367927,
+    "usage_output": 416153
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "03.01.2024",
+    "usage_input": 435278,
+    "usage_output": 417971
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "28.03.2024",
+    "usage_input": 276213,
+    "usage_output": 331981
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "22.02.2024",
+    "usage_input": 457851,
+    "usage_output": 487257
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "09.01.2024",
+    "usage_input": 326524,
+    "usage_output": 359843
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "05.01.2024",
+    "usage_input": 357535,
+    "usage_output": 393001
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "04.04.2024",
+    "usage_input": 408088,
+    "usage_output": 457034
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "28.01.2024",
+    "usage_input": 355250,
+    "usage_output": 359174
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "15.02.2024",
+    "usage_input": 512362,
+    "usage_output": 481958
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "24.04.2024",
+    "usage_input": 435538,
+    "usage_output": 418354
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "09.04.2024",
+    "usage_input": 359931,
+    "usage_output": 315177
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "12.01.2024",
+    "usage_input": 377863,
+    "usage_output": 372672
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "05.05.2024",
+    "usage_input": 505878,
+    "usage_output": 559148
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "04.01.2024",
+    "usage_input": 374858,
+    "usage_output": 408845
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "30.01.2024",
+    "usage_input": 386665,
+    "usage_output": 352944
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "23.01.2024",
+    "usage_input": 389333,
+    "usage_output": 382135
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "06.03.2024",
+    "usage_input": 386960,
+    "usage_output": 468262
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "22.04.2024",
+    "usage_input": 358546,
+    "usage_output": 359518
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "04.04.2024",
+    "usage_input": 388890,
+    "usage_output": 401420
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "14.04.2024",
+    "usage_input": 486648,
+    "usage_output": 417104
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "23.03.2024",
+    "usage_input": 404017,
+    "usage_output": 397682
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "03.05.2024",
+    "usage_input": 575241,
+    "usage_output": 539463
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "03.05.2024",
+    "usage_input": 399022,
+    "usage_output": 427313
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "13.03.2024",
+    "usage_input": 360270,
+    "usage_output": 324007
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "06.02.2024",
+    "usage_input": 429785,
+    "usage_output": 412932
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "08.02.2024",
+    "usage_input": 383039,
+    "usage_output": 441925
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "29.01.2024",
+    "usage_input": 398621,
+    "usage_output": 416405
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "25.02.2024",
+    "usage_input": 402909,
+    "usage_output": 441387
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "26.03.2024",
+    "usage_input": 396721,
+    "usage_output": 431616
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "19.04.2024",
+    "usage_input": 408443,
+    "usage_output": 399008
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "04.02.2024",
+    "usage_input": 504561,
+    "usage_output": 447424
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "17.02.2024",
+    "usage_input": 403028,
+    "usage_output": 397707
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "30.04.2024",
+    "usage_input": 367576,
+    "usage_output": 369296
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "17.03.2024",
+    "usage_input": 452782,
+    "usage_output": 422148
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "10.02.2024",
+    "usage_input": 368935,
+    "usage_output": 391761
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "14.02.2024",
+    "usage_input": 391220,
+    "usage_output": 416202
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "04.03.2024",
+    "usage_input": 374292,
+    "usage_output": 316258
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "30.04.2024",
+    "usage_input": 373362,
+    "usage_output": 362400
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "15.01.2024",
+    "usage_input": 321550,
+    "usage_output": 369202
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "20.04.2024",
+    "usage_input": 374439,
+    "usage_output": 420474
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "22.03.2024",
+    "usage_input": 384432,
+    "usage_output": 446876
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "06.03.2024",
+    "usage_input": 359968,
+    "usage_output": 339451
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "04.01.2024",
+    "usage_input": 354406,
+    "usage_output": 311020
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "13.04.2024",
+    "usage_input": 376343,
+    "usage_output": 419218
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "07.02.2024",
+    "usage_input": 395646,
+    "usage_output": 481755
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "06.02.2024",
+    "usage_input": 410086,
+    "usage_output": 328998
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "11.02.2024",
+    "usage_input": 384247,
+    "usage_output": 381940
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "18.03.2024",
+    "usage_input": 389149,
+    "usage_output": 439079
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "09.01.2024",
+    "usage_input": 439850,
+    "usage_output": 364543
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "11.05.2024",
+    "usage_input": 323584,
+    "usage_output": 335729
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "28.03.2024",
+    "usage_input": 452233,
+    "usage_output": 428757
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "14.05.2024",
+    "usage_input": 355394,
+    "usage_output": 360438
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "07.05.2024",
+    "usage_input": 353190,
+    "usage_output": 377942
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "20.01.2024",
+    "usage_input": 324267,
+    "usage_output": 353614
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "07.05.2024",
+    "usage_input": 442445,
+    "usage_output": 419421
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "27.03.2024",
+    "usage_input": 438343,
+    "usage_output": 463073
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "15.03.2024",
+    "usage_input": 477727,
+    "usage_output": 494621
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "24.01.2024",
+    "usage_input": 404958,
+    "usage_output": 346364
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "10.01.2024",
+    "usage_input": 374079,
+    "usage_output": 350857
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "08.01.2024",
+    "usage_input": 324644,
+    "usage_output": 298404
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "27.02.2024",
+    "usage_input": 356305,
+    "usage_output": 386596
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "02.04.2024",
+    "usage_input": 372208,
+    "usage_output": 356588
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "04.01.2024",
+    "usage_input": 379278,
+    "usage_output": 341247
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "21.04.2024",
+    "usage_input": 471499,
+    "usage_output": 431861
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "03.05.2024",
+    "usage_input": 511793,
+    "usage_output": 467085
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "15.05.2024",
+    "usage_input": 339467,
+    "usage_output": 367519
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "05.01.2024",
+    "usage_input": 424537,
+    "usage_output": 418463
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "04.03.2024",
+    "usage_input": 448552,
+    "usage_output": 472183
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "29.01.2024",
+    "usage_input": 440379,
+    "usage_output": 444007
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "15.04.2024",
+    "usage_input": 428486,
+    "usage_output": 438792
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "19.02.2024",
+    "usage_input": 474914,
+    "usage_output": 457776
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "16.03.2024",
+    "usage_input": 463767,
+    "usage_output": 431684
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "01.04.2024",
+    "usage_input": 460366,
+    "usage_output": 420965
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "02.02.2024",
+    "usage_input": 434336,
+    "usage_output": 502270
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "29.04.2024",
+    "usage_input": 399576,
+    "usage_output": 334524
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "17.03.2024",
+    "usage_input": 371526,
+    "usage_output": 358927
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "28.01.2024",
+    "usage_input": 387114,
+    "usage_output": 429053
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "11.05.2024",
+    "usage_input": 407936,
+    "usage_output": 440827
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "13.01.2024",
+    "usage_input": 389103,
+    "usage_output": 349385
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "25.02.2024",
+    "usage_input": 381284,
+    "usage_output": 399678
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "14.04.2024",
+    "usage_input": 367846,
+    "usage_output": 366022
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "10.03.2024",
+    "usage_input": 457425,
+    "usage_output": 504997
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "30.03.2024",
+    "usage_input": 444638,
+    "usage_output": 454757
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "23.01.2024",
+    "usage_input": 454765,
+    "usage_output": 413653
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "06.05.2024",
+    "usage_input": 389273,
+    "usage_output": 360809
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "21.01.2024",
+    "usage_input": 435895,
+    "usage_output": 439874
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "06.05.2024",
+    "usage_input": 433808,
+    "usage_output": 366084
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "27.04.2024",
+    "usage_input": 385358,
+    "usage_output": 438690
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "10.02.2024",
+    "usage_input": 477463,
+    "usage_output": 511073
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "22.04.2024",
+    "usage_input": 344075,
+    "usage_output": 337871
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "01.05.2024",
+    "usage_input": 368478,
+    "usage_output": 336574
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "05.01.2024",
+    "usage_input": 465879,
+    "usage_output": 361369
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "24.04.2024",
+    "usage_input": 277644,
+    "usage_output": 273445
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "13.02.2024",
+    "usage_input": 460243,
+    "usage_output": 438301
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "21.04.2024",
+    "usage_input": 401612,
+    "usage_output": 421016
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "04.04.2024",
+    "usage_input": 294827,
+    "usage_output": 317915
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "09.01.2024",
+    "usage_input": 437856,
+    "usage_output": 429206
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "26.02.2024",
+    "usage_input": 399672,
+    "usage_output": 434503
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "30.04.2024",
+    "usage_input": 429721,
+    "usage_output": 430727
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "06.01.2024",
+    "usage_input": 386789,
+    "usage_output": 392670
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "02.05.2024",
+    "usage_input": 360409,
+    "usage_output": 345521
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "22.01.2024",
+    "usage_input": 470151,
+    "usage_output": 459478
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "12.05.2024",
+    "usage_input": 456238,
+    "usage_output": 493128
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "05.05.2024",
+    "usage_input": 449101,
+    "usage_output": 425334
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "05.02.2024",
+    "usage_input": 385291,
+    "usage_output": 346547
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "08.04.2024",
+    "usage_input": 420985,
+    "usage_output": 383180
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "28.04.2024",
+    "usage_input": 378771,
+    "usage_output": 396647
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "08.04.2024",
+    "usage_input": 478186,
+    "usage_output": 472090
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "09.05.2024",
+    "usage_input": 379566,
+    "usage_output": 403767
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "04.01.2024",
+    "usage_input": 423046,
+    "usage_output": 446552
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "06.02.2024",
+    "usage_input": 391478,
+    "usage_output": 404314
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "20.01.2024",
+    "usage_input": 359146,
+    "usage_output": 364749
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "19.02.2024",
+    "usage_input": 432476,
+    "usage_output": 412384
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "25.03.2024",
+    "usage_input": 452537,
+    "usage_output": 441289
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "22.01.2024",
+    "usage_input": 448586,
+    "usage_output": 493554
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "19.04.2024",
+    "usage_input": 451097,
+    "usage_output": 486750
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "01.01.2024",
+    "usage_input": 363454,
+    "usage_output": 429612
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "06.05.2024",
+    "usage_input": 428806,
+    "usage_output": 377738
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "16.04.2024",
+    "usage_input": 448916,
+    "usage_output": 484451
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "26.01.2024",
+    "usage_input": 387637,
+    "usage_output": 460579
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "01.04.2024",
+    "usage_input": 354556,
+    "usage_output": 371945
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "08.04.2024",
+    "usage_input": 395777,
+    "usage_output": 385812
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "11.05.2024",
+    "usage_input": 425229,
+    "usage_output": 456493
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "02.04.2024",
+    "usage_input": 454779,
+    "usage_output": 459948
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "04.03.2024",
+    "usage_input": 417366,
+    "usage_output": 410946
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "26.04.2024",
+    "usage_input": 346993,
+    "usage_output": 346163
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "07.05.2024",
+    "usage_input": 439825,
+    "usage_output": 458044
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "27.01.2024",
+    "usage_input": 335141,
+    "usage_output": 320780
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "10.05.2024",
+    "usage_input": 389704,
+    "usage_output": 383109
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "24.03.2024",
+    "usage_input": 481946,
+    "usage_output": 504745
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "19.03.2024",
+    "usage_input": 364696,
+    "usage_output": 406053
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "15.05.2024",
+    "usage_input": 352731,
+    "usage_output": 313412
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "24.03.2024",
+    "usage_input": 381309,
+    "usage_output": 385008
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "29.01.2024",
+    "usage_input": 510322,
+    "usage_output": 482602
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "07.02.2024",
+    "usage_input": 257212,
+    "usage_output": 328252
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "11.04.2024",
+    "usage_input": 368497,
+    "usage_output": 412218
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "28.02.2024",
+    "usage_input": 355408,
+    "usage_output": 427202
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "18.01.2024",
+    "usage_input": 387844,
+    "usage_output": 401261
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "11.04.2024",
+    "usage_input": 467466,
+    "usage_output": 459736
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "28.02.2024",
+    "usage_input": 474802,
+    "usage_output": 466730
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "12.04.2024",
+    "usage_input": 463790,
+    "usage_output": 441713
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "20.01.2024",
+    "usage_input": 390387,
+    "usage_output": 413526
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "07.04.2024",
+    "usage_input": 447074,
+    "usage_output": 461626
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "23.02.2024",
+    "usage_input": 462368,
+    "usage_output": 321893
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "17.01.2024",
+    "usage_input": 514337,
+    "usage_output": 431763
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "11.03.2024",
+    "usage_input": 390090,
+    "usage_output": 384030
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "31.03.2024",
+    "usage_input": 289886,
+    "usage_output": 317049
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "18.03.2024",
+    "usage_input": 401022,
+    "usage_output": 410970
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "05.01.2024",
+    "usage_input": 339193,
+    "usage_output": 361262
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "16.05.2024",
+    "usage_input": 433906,
+    "usage_output": 377957
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "01.01.2024",
+    "usage_input": 353509,
+    "usage_output": 375151
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "08.02.2024",
+    "usage_input": 451649,
+    "usage_output": 445895
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "09.05.2024",
+    "usage_input": 409493,
+    "usage_output": 405485
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "20.04.2024",
+    "usage_input": 383966,
+    "usage_output": 420676
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "24.04.2024",
+    "usage_input": 324857,
+    "usage_output": 429410
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "23.01.2024",
+    "usage_input": 350918,
+    "usage_output": 328570
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "16.05.2024",
+    "usage_input": 434466,
+    "usage_output": 401056
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "03.02.2024",
+    "usage_input": 410522,
+    "usage_output": 393255
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "05.01.2024",
+    "usage_input": 391541,
+    "usage_output": 342421
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "14.02.2024",
+    "usage_input": 310080,
+    "usage_output": 355678
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "16.05.2024",
+    "usage_input": 411448,
+    "usage_output": 469227
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "20.01.2024",
+    "usage_input": 431958,
+    "usage_output": 387563
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "14.03.2024",
+    "usage_input": 395520,
+    "usage_output": 315653
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "01.01.2024",
+    "usage_input": 436292,
+    "usage_output": 451429
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "25.01.2024",
+    "usage_input": 415734,
+    "usage_output": 395612
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "16.04.2024",
+    "usage_input": 500173,
+    "usage_output": 484366
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "29.03.2024",
+    "usage_input": 398236,
+    "usage_output": 430509
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "09.03.2024",
+    "usage_input": 345370,
+    "usage_output": 390460
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "16.03.2024",
+    "usage_input": 439703,
+    "usage_output": 436289
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "06.05.2024",
+    "usage_input": 354231,
+    "usage_output": 425725
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "02.01.2024",
+    "usage_input": 479196,
+    "usage_output": 432897
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "20.04.2024",
+    "usage_input": 396813,
+    "usage_output": 392293
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "15.03.2024",
+    "usage_input": 372356,
+    "usage_output": 340790
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "01.02.2024",
+    "usage_input": 348184,
+    "usage_output": 355473
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "15.02.2024",
+    "usage_input": 299839,
+    "usage_output": 336341
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "02.03.2024",
+    "usage_input": 487434,
+    "usage_output": 377526
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "01.02.2024",
+    "usage_input": 371319,
+    "usage_output": 349548
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "20.03.2024",
+    "usage_input": 459811,
+    "usage_output": 429580
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "17.02.2024",
+    "usage_input": 423464,
+    "usage_output": 377297
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "06.03.2024",
+    "usage_input": 359941,
+    "usage_output": 398328
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "07.02.2024",
+    "usage_input": 418800,
+    "usage_output": 425016
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "26.04.2024",
+    "usage_input": 411761,
+    "usage_output": 380114
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "16.01.2024",
+    "usage_input": 409081,
+    "usage_output": 419839
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "18.04.2024",
+    "usage_input": 492550,
+    "usage_output": 545449
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "06.04.2024",
+    "usage_input": 371148,
+    "usage_output": 403196
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "17.04.2024",
+    "usage_input": 448877,
+    "usage_output": 460897
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "02.03.2024",
+    "usage_input": 408018,
+    "usage_output": 366387
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "16.01.2024",
+    "usage_input": 465555,
+    "usage_output": 412955
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "02.02.2024",
+    "usage_input": 434778,
+    "usage_output": 423255
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "12.04.2024",
+    "usage_input": 445641,
+    "usage_output": 448137
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "13.02.2024",
+    "usage_input": 404650,
+    "usage_output": 464673
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "26.04.2024",
+    "usage_input": 398770,
+    "usage_output": 381528
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "23.04.2024",
+    "usage_input": 398657,
+    "usage_output": 382698
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "08.05.2024",
+    "usage_input": 473442,
+    "usage_output": 468580
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "04.05.2024",
+    "usage_input": 390576,
+    "usage_output": 398189
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "25.01.2024",
+    "usage_input": 301843,
+    "usage_output": 344845
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "24.03.2024",
+    "usage_input": 418884,
+    "usage_output": 403067
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "04.01.2024",
+    "usage_input": 363811,
+    "usage_output": 372015
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "01.01.2024",
+    "usage_input": 480872,
+    "usage_output": 464926
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "03.05.2024",
+    "usage_input": 466420,
+    "usage_output": 468582
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "17.04.2024",
+    "usage_input": 409476,
+    "usage_output": 437036
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "23.03.2024",
+    "usage_input": 424119,
+    "usage_output": 386192
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "15.02.2024",
+    "usage_input": 371152,
+    "usage_output": 349803
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "15.04.2024",
+    "usage_input": 412975,
+    "usage_output": 382932
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "15.05.2024",
+    "usage_input": 483559,
+    "usage_output": 450726
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "06.04.2024",
+    "usage_input": 426405,
+    "usage_output": 433418
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "12.02.2024",
+    "usage_input": 367694,
+    "usage_output": 347096
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "05.04.2024",
+    "usage_input": 405721,
+    "usage_output": 392050
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "14.01.2024",
+    "usage_input": 399075,
+    "usage_output": 379738
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "10.03.2024",
+    "usage_input": 311521,
+    "usage_output": 307430
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "30.03.2024",
+    "usage_input": 414007,
+    "usage_output": 436382
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "16.02.2024",
+    "usage_input": 394056,
+    "usage_output": 419208
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "03.04.2024",
+    "usage_input": 416729,
+    "usage_output": 463254
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "26.03.2024",
+    "usage_input": 410765,
+    "usage_output": 380804
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "04.02.2024",
+    "usage_input": 380461,
+    "usage_output": 438914
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "17.03.2024",
+    "usage_input": 399198,
+    "usage_output": 387694
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "03.02.2024",
+    "usage_input": 353975,
+    "usage_output": 406045
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "26.01.2024",
+    "usage_input": 395588,
+    "usage_output": 471143
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "05.04.2024",
+    "usage_input": 393318,
+    "usage_output": 279662
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "11.02.2024",
+    "usage_input": 413316,
+    "usage_output": 453629
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "19.01.2024",
+    "usage_input": 450972,
+    "usage_output": 402808
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "13.03.2024",
+    "usage_input": 431873,
+    "usage_output": 438949
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "28.04.2024",
+    "usage_input": 408143,
+    "usage_output": 386441
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "21.01.2024",
+    "usage_input": 437742,
+    "usage_output": 380433
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "18.01.2024",
+    "usage_input": 357516,
+    "usage_output": 342095
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "30.01.2024",
+    "usage_input": 360078,
+    "usage_output": 443645
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "11.01.2024",
+    "usage_input": 374307,
+    "usage_output": 366843
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "17.01.2024",
+    "usage_input": 468111,
+    "usage_output": 535421
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "15.02.2024",
+    "usage_input": 402010,
+    "usage_output": 419876
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "17.03.2024",
+    "usage_input": 428156,
+    "usage_output": 438036
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "01.03.2024",
+    "usage_input": 362340,
+    "usage_output": 349421
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "14.03.2024",
+    "usage_input": 432569,
+    "usage_output": 377062
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "05.03.2024",
+    "usage_input": 395457,
+    "usage_output": 424069
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "27.03.2024",
+    "usage_input": 433380,
+    "usage_output": 410920
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "11.05.2024",
+    "usage_input": 387406,
+    "usage_output": 429211
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "25.04.2024",
+    "usage_input": 420582,
+    "usage_output": 357832
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "01.02.2024",
+    "usage_input": 364103,
+    "usage_output": 352388
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "10.03.2024",
+    "usage_input": 337487,
+    "usage_output": 356194
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "05.02.2024",
+    "usage_input": 312873,
+    "usage_output": 314338
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "25.01.2024",
+    "usage_input": 342838,
+    "usage_output": 375625
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "03.05.2024",
+    "usage_input": 466439,
+    "usage_output": 531149
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "16.04.2024",
+    "usage_input": 419857,
+    "usage_output": 411595
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "07.01.2024",
+    "usage_input": 421960,
+    "usage_output": 374769
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "02.04.2024",
+    "usage_input": 371420,
+    "usage_output": 336839
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "29.02.2024",
+    "usage_input": 359812,
+    "usage_output": 379233
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "21.04.2024",
+    "usage_input": 409628,
+    "usage_output": 398889
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "05.05.2024",
+    "usage_input": 387090,
+    "usage_output": 425183
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "11.02.2024",
+    "usage_input": 460784,
+    "usage_output": 490408
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "10.05.2024",
+    "usage_input": 366556,
+    "usage_output": 412165
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "08.01.2024",
+    "usage_input": 439452,
+    "usage_output": 364778
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "27.04.2024",
+    "usage_input": 375083,
+    "usage_output": 420388
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "07.05.2024",
+    "usage_input": 418996,
+    "usage_output": 439471
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "04.02.2024",
+    "usage_input": 424605,
+    "usage_output": 379533
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "23.01.2024",
+    "usage_input": 377181,
+    "usage_output": 374212
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "05.05.2024",
+    "usage_input": 437172,
+    "usage_output": 419569
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "06.03.2024",
+    "usage_input": 384965,
+    "usage_output": 359976
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "10.04.2024",
+    "usage_input": 411670,
+    "usage_output": 400843
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "21.02.2024",
+    "usage_input": 358658,
+    "usage_output": 348497
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "26.03.2024",
+    "usage_input": 396696,
+    "usage_output": 429475
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "26.03.2024",
+    "usage_input": 437558,
+    "usage_output": 399631
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "22.02.2024",
+    "usage_input": 507835,
+    "usage_output": 459040
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "01.02.2024",
+    "usage_input": 354262,
+    "usage_output": 349221
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "06.05.2024",
+    "usage_input": 407204,
+    "usage_output": 354843
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "25.02.2024",
+    "usage_input": 387329,
+    "usage_output": 347867
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "07.01.2024",
+    "usage_input": 361341,
+    "usage_output": 370563
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "09.02.2024",
+    "usage_input": 396421,
+    "usage_output": 319329
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "05.04.2024",
+    "usage_input": 249561,
+    "usage_output": 313189
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "24.02.2024",
+    "usage_input": 447525,
+    "usage_output": 402061
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "06.05.2024",
+    "usage_input": 329873,
+    "usage_output": 346618
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "15.01.2024",
+    "usage_input": 464580,
+    "usage_output": 453101
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "15.04.2024",
+    "usage_input": 441606,
+    "usage_output": 383945
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "26.02.2024",
+    "usage_input": 383898,
+    "usage_output": 311977
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "07.05.2024",
+    "usage_input": 438505,
+    "usage_output": 456710
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "21.04.2024",
+    "usage_input": 414995,
+    "usage_output": 367575
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "08.03.2024",
+    "usage_input": 499091,
+    "usage_output": 460168
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "03.03.2024",
+    "usage_input": 438314,
+    "usage_output": 393151
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "16.02.2024",
+    "usage_input": 439496,
+    "usage_output": 465881
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "17.01.2024",
+    "usage_input": 422030,
+    "usage_output": 360042
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "17.04.2024",
+    "usage_input": 402290,
+    "usage_output": 408392
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "29.04.2024",
+    "usage_input": 408317,
+    "usage_output": 384293
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "02.01.2024",
+    "usage_input": 448394,
+    "usage_output": 433733
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "24.01.2024",
+    "usage_input": 383915,
+    "usage_output": 384660
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "17.03.2024",
+    "usage_input": 436879,
+    "usage_output": 371962
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "12.04.2024",
+    "usage_input": 498340,
+    "usage_output": 453208
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "27.02.2024",
+    "usage_input": 478188,
+    "usage_output": 479153
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "21.03.2024",
+    "usage_input": 390499,
+    "usage_output": 353669
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "02.04.2024",
+    "usage_input": 381622,
+    "usage_output": 421049
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "06.02.2024",
+    "usage_input": 398068,
+    "usage_output": 406579
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "14.02.2024",
+    "usage_input": 383908,
+    "usage_output": 357500
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "29.01.2024",
+    "usage_input": 369461,
+    "usage_output": 432426
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "01.04.2024",
+    "usage_input": 350670,
+    "usage_output": 348421
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "26.02.2024",
+    "usage_input": 408393,
+    "usage_output": 419167
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "09.05.2024",
+    "usage_input": 388939,
+    "usage_output": 297497
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "26.03.2024",
+    "usage_input": 390419,
+    "usage_output": 382225
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "13.05.2024",
+    "usage_input": 391797,
+    "usage_output": 338313
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "23.04.2024",
+    "usage_input": 425230,
+    "usage_output": 401912
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "13.01.2024",
+    "usage_input": 400057,
+    "usage_output": 432460
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "06.04.2024",
+    "usage_input": 376195,
+    "usage_output": 307471
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "15.01.2024",
+    "usage_input": 327937,
+    "usage_output": 368401
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "12.04.2024",
+    "usage_input": 339134,
+    "usage_output": 397605
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "19.04.2024",
+    "usage_input": 485259,
+    "usage_output": 422285
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "18.04.2024",
+    "usage_input": 419721,
+    "usage_output": 395495
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "06.03.2024",
+    "usage_input": 396924,
+    "usage_output": 415060
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "02.02.2024",
+    "usage_input": 416647,
+    "usage_output": 476402
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "28.04.2024",
+    "usage_input": 384101,
+    "usage_output": 368458
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "22.03.2024",
+    "usage_input": 413649,
+    "usage_output": 398362
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "24.01.2024",
+    "usage_input": 368298,
+    "usage_output": 379315
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "31.03.2024",
+    "usage_input": 479023,
+    "usage_output": 429781
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "30.04.2024",
+    "usage_input": 362440,
+    "usage_output": 384711
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "13.05.2024",
+    "usage_input": 463505,
+    "usage_output": 512078
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "15.02.2024",
+    "usage_input": 422411,
+    "usage_output": 444245
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "14.01.2024",
+    "usage_input": 432788,
+    "usage_output": 399960
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "29.03.2024",
+    "usage_input": 411512,
+    "usage_output": 355514
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "04.04.2024",
+    "usage_input": 360447,
+    "usage_output": 366217
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "07.03.2024",
+    "usage_input": 495611,
+    "usage_output": 493196
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "28.04.2024",
+    "usage_input": 387248,
+    "usage_output": 415178
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "08.04.2024",
+    "usage_input": 340298,
+    "usage_output": 357122
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "10.04.2024",
+    "usage_input": 475750,
+    "usage_output": 469005
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "13.02.2024",
+    "usage_input": 409646,
+    "usage_output": 418507
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "27.04.2024",
+    "usage_input": 314397,
+    "usage_output": 355287
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "12.01.2024",
+    "usage_input": 391526,
+    "usage_output": 384209
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "29.02.2024",
+    "usage_input": 439300,
+    "usage_output": 508075
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "06.01.2024",
+    "usage_input": 437791,
+    "usage_output": 417486
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "04.04.2024",
+    "usage_input": 379986,
+    "usage_output": 355136
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "13.01.2024",
+    "usage_input": 356880,
+    "usage_output": 362121
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "15.05.2024",
+    "usage_input": 417102,
+    "usage_output": 424257
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "27.01.2024",
+    "usage_input": 338613,
+    "usage_output": 360309
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "06.03.2024",
+    "usage_input": 372453,
+    "usage_output": 382561
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "18.01.2024",
+    "usage_input": 366124,
+    "usage_output": 444707
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "18.03.2024",
+    "usage_input": 456774,
+    "usage_output": 438934
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "09.04.2024",
+    "usage_input": 438338,
+    "usage_output": 494222
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "06.04.2024",
+    "usage_input": 337222,
+    "usage_output": 379203
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "22.03.2024",
+    "usage_input": 409442,
+    "usage_output": 344990
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "25.03.2024",
+    "usage_input": 418928,
+    "usage_output": 400918
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "03.04.2024",
+    "usage_input": 346754,
+    "usage_output": 352716
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "30.04.2024",
+    "usage_input": 459195,
+    "usage_output": 458343
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "07.04.2024",
+    "usage_input": 405078,
+    "usage_output": 386281
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "21.03.2024",
+    "usage_input": 344998,
+    "usage_output": 335466
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "01.03.2024",
+    "usage_input": 374912,
+    "usage_output": 414309
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "03.02.2024",
+    "usage_input": 418546,
+    "usage_output": 457578
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "21.04.2024",
+    "usage_input": 376634,
+    "usage_output": 366123
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "07.01.2024",
+    "usage_input": 394801,
+    "usage_output": 419738
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "20.01.2024",
+    "usage_input": 439628,
+    "usage_output": 423468
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "15.04.2024",
+    "usage_input": 386216,
+    "usage_output": 390978
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "12.02.2024",
+    "usage_input": 407539,
+    "usage_output": 373759
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "01.02.2024",
+    "usage_input": 460840,
+    "usage_output": 422080
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "13.05.2024",
+    "usage_input": 308735,
+    "usage_output": 364861
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "20.02.2024",
+    "usage_input": 385609,
+    "usage_output": 428298
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "11.03.2024",
+    "usage_input": 464221,
+    "usage_output": 461291
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "17.03.2024",
+    "usage_input": 400133,
+    "usage_output": 427074
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "17.02.2024",
+    "usage_input": 429750,
+    "usage_output": 445012
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "26.04.2024",
+    "usage_input": 330989,
+    "usage_output": 341391
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "02.01.2024",
+    "usage_input": 489746,
+    "usage_output": 389156
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "09.04.2024",
+    "usage_input": 383138,
+    "usage_output": 415166
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "09.04.2024",
+    "usage_input": 415601,
+    "usage_output": 391436
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "14.04.2024",
+    "usage_input": 400179,
+    "usage_output": 423709
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "06.02.2024",
+    "usage_input": 434375,
+    "usage_output": 390826
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "03.03.2024",
+    "usage_input": 348686,
+    "usage_output": 369539
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "27.03.2024",
+    "usage_input": 342166,
+    "usage_output": 359598
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "01.01.2024",
+    "usage_input": 386983,
+    "usage_output": 417866
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "27.02.2024",
+    "usage_input": 386842,
+    "usage_output": 381282
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "17.01.2024",
+    "usage_input": 447657,
+    "usage_output": 463719
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "04.02.2024",
+    "usage_input": 490996,
+    "usage_output": 411277
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "30.01.2024",
+    "usage_input": 413868,
+    "usage_output": 472933
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "02.01.2024",
+    "usage_input": 456621,
+    "usage_output": 402727
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "24.04.2024",
+    "usage_input": 438319,
+    "usage_output": 356901
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "29.03.2024",
+    "usage_input": 485653,
+    "usage_output": 461005
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "13.02.2024",
+    "usage_input": 376047,
+    "usage_output": 405814
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "07.02.2024",
+    "usage_input": 415297,
+    "usage_output": 405593
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "27.03.2024",
+    "usage_input": 403001,
+    "usage_output": 374880
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "18.02.2024",
+    "usage_input": 382944,
+    "usage_output": 381359
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "08.03.2024",
+    "usage_input": 378451,
+    "usage_output": 346851
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "18.01.2024",
+    "usage_input": 417171,
+    "usage_output": 407044
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "22.04.2024",
+    "usage_input": 400678,
+    "usage_output": 439077
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "17.04.2024",
+    "usage_input": 411358,
+    "usage_output": 407738
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "05.04.2024",
+    "usage_input": 437166,
+    "usage_output": 352274
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "14.05.2024",
+    "usage_input": 423601,
+    "usage_output": 417804
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "27.02.2024",
+    "usage_input": 366473,
+    "usage_output": 411360
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "01.04.2024",
+    "usage_input": 326162,
+    "usage_output": 343954
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "17.02.2024",
+    "usage_input": 329198,
+    "usage_output": 295805
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "05.04.2024",
+    "usage_input": 406973,
+    "usage_output": 422433
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "11.01.2024",
+    "usage_input": 335102,
+    "usage_output": 355703
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "03.03.2024",
+    "usage_input": 411383,
+    "usage_output": 392937
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "09.05.2024",
+    "usage_input": 410746,
+    "usage_output": 400707
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "27.01.2024",
+    "usage_input": 431349,
+    "usage_output": 414328
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "21.01.2024",
+    "usage_input": 446039,
+    "usage_output": 378007
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "25.02.2024",
+    "usage_input": 408398,
+    "usage_output": 449750
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "30.01.2024",
+    "usage_input": 333251,
+    "usage_output": 364782
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "29.01.2024",
+    "usage_input": 378358,
+    "usage_output": 384654
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "05.04.2024",
+    "usage_input": 414727,
+    "usage_output": 420728
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "17.03.2024",
+    "usage_input": 450373,
+    "usage_output": 447503
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "03.01.2024",
+    "usage_input": 407677,
+    "usage_output": 391432
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "18.02.2024",
+    "usage_input": 443000,
+    "usage_output": 461549
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "13.03.2024",
+    "usage_input": 478193,
+    "usage_output": 463957
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "02.02.2024",
+    "usage_input": 352299,
+    "usage_output": 420319
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "15.01.2024",
+    "usage_input": 429361,
+    "usage_output": 432538
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "23.01.2024",
+    "usage_input": 438386,
+    "usage_output": 447821
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "19.03.2024",
+    "usage_input": 437690,
+    "usage_output": 414351
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "28.01.2024",
+    "usage_input": 321911,
+    "usage_output": 354750
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "22.02.2024",
+    "usage_input": 497524,
+    "usage_output": 454268
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "20.03.2024",
+    "usage_input": 370838,
+    "usage_output": 385952
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "09.03.2024",
+    "usage_input": 331808,
+    "usage_output": 357482
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "07.02.2024",
+    "usage_input": 456758,
+    "usage_output": 350255
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "17.01.2024",
+    "usage_input": 338119,
+    "usage_output": 370508
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "14.01.2024",
+    "usage_input": 379957,
+    "usage_output": 387396
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "11.01.2024",
+    "usage_input": 405177,
+    "usage_output": 404274
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "05.05.2024",
+    "usage_input": 344448,
+    "usage_output": 415022
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "24.04.2024",
+    "usage_input": 447075,
+    "usage_output": 442224
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "22.04.2024",
+    "usage_input": 406218,
+    "usage_output": 352956
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "04.01.2024",
+    "usage_input": 362365,
+    "usage_output": 408304
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "31.01.2024",
+    "usage_input": 399006,
+    "usage_output": 443666
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "13.05.2024",
+    "usage_input": 453510,
+    "usage_output": 492553
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "16.02.2024",
+    "usage_input": 376133,
+    "usage_output": 317456
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "16.02.2024",
+    "usage_input": 342247,
+    "usage_output": 373194
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "05.01.2024",
+    "usage_input": 315924,
+    "usage_output": 336809
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "28.02.2024",
+    "usage_input": 418867,
+    "usage_output": 462655
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "20.03.2024",
+    "usage_input": 502977,
+    "usage_output": 440231
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "29.03.2024",
+    "usage_input": 463361,
+    "usage_output": 444622
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "10.01.2024",
+    "usage_input": 346676,
+    "usage_output": 318546
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "04.01.2024",
+    "usage_input": 464772,
+    "usage_output": 419977
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "09.05.2024",
+    "usage_input": 434173,
+    "usage_output": 418542
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "19.04.2024",
+    "usage_input": 389031,
+    "usage_output": 399840
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "12.03.2024",
+    "usage_input": 419898,
+    "usage_output": 447945
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "23.02.2024",
+    "usage_input": 391160,
+    "usage_output": 369532
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "05.04.2024",
+    "usage_input": 373186,
+    "usage_output": 361454
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "09.02.2024",
+    "usage_input": 323622,
+    "usage_output": 365545
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "04.04.2024",
+    "usage_input": 340720,
+    "usage_output": 323353
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "25.02.2024",
+    "usage_input": 380364,
+    "usage_output": 407756
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "03.04.2024",
+    "usage_input": 468303,
+    "usage_output": 488301
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "03.03.2024",
+    "usage_input": 431648,
+    "usage_output": 348225
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "26.04.2024",
+    "usage_input": 436324,
+    "usage_output": 459601
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "23.03.2024",
+    "usage_input": 479639,
+    "usage_output": 475976
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "12.01.2024",
+    "usage_input": 361248,
+    "usage_output": 377494
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "11.02.2024",
+    "usage_input": 344692,
+    "usage_output": 335109
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "10.02.2024",
+    "usage_input": 384970,
+    "usage_output": 378170
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "18.02.2024",
+    "usage_input": 378598,
+    "usage_output": 437477
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "29.03.2024",
+    "usage_input": 387484,
+    "usage_output": 489832
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "10.02.2024",
+    "usage_input": 402942,
+    "usage_output": 412586
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "26.04.2024",
+    "usage_input": 279262,
+    "usage_output": 284046
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "01.03.2024",
+    "usage_input": 390168,
+    "usage_output": 468276
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "05.01.2024",
+    "usage_input": 358737,
+    "usage_output": 372970
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "05.05.2024",
+    "usage_input": 367798,
+    "usage_output": 395202
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "12.04.2024",
+    "usage_input": 376460,
+    "usage_output": 395068
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "30.03.2024",
+    "usage_input": 456158,
+    "usage_output": 464946
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "27.01.2024",
+    "usage_input": 367632,
+    "usage_output": 374625
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "09.01.2024",
+    "usage_input": 428895,
+    "usage_output": 426853
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "26.03.2024",
+    "usage_input": 441534,
+    "usage_output": 465441
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "02.02.2024",
+    "usage_input": 399873,
+    "usage_output": 339647
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "05.05.2024",
+    "usage_input": 463124,
+    "usage_output": 501697
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "14.02.2024",
+    "usage_input": 432435,
+    "usage_output": 405944
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "14.04.2024",
+    "usage_input": 360358,
+    "usage_output": 383118
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "15.01.2024",
+    "usage_input": 424464,
+    "usage_output": 429866
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "21.03.2024",
+    "usage_input": 353689,
+    "usage_output": 373216
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "04.05.2024",
+    "usage_input": 413535,
+    "usage_output": 390444
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "16.02.2024",
+    "usage_input": 443009,
+    "usage_output": 505230
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "02.02.2024",
+    "usage_input": 464156,
+    "usage_output": 429707
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "02.03.2024",
+    "usage_input": 385648,
+    "usage_output": 363420
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "28.01.2024",
+    "usage_input": 422856,
+    "usage_output": 389010
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "03.05.2024",
+    "usage_input": 364856,
+    "usage_output": 421989
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "21.01.2024",
+    "usage_input": 475147,
+    "usage_output": 405332
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "28.04.2024",
+    "usage_input": 403900,
+    "usage_output": 377423
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "12.01.2024",
+    "usage_input": 448647,
+    "usage_output": 486755
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "12.02.2024",
+    "usage_input": 472346,
+    "usage_output": 482755
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "02.04.2024",
+    "usage_input": 396450,
+    "usage_output": 448926
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "24.02.2024",
+    "usage_input": 389220,
+    "usage_output": 401018
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "13.01.2024",
+    "usage_input": 398104,
+    "usage_output": 326449
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "07.03.2024",
+    "usage_input": 442724,
+    "usage_output": 434928
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "04.03.2024",
+    "usage_input": 420633,
+    "usage_output": 394982
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "13.03.2024",
+    "usage_input": 312185,
+    "usage_output": 303676
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "28.03.2024",
+    "usage_input": 393522,
+    "usage_output": 361207
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "09.04.2024",
+    "usage_input": 336015,
+    "usage_output": 336555
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "23.04.2024",
+    "usage_input": 435850,
+    "usage_output": 422617
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "14.05.2024",
+    "usage_input": 483565,
+    "usage_output": 458846
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "10.02.2024",
+    "usage_input": 369910,
+    "usage_output": 414960
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "21.02.2024",
+    "usage_input": 358279,
+    "usage_output": 400096
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "12.03.2024",
+    "usage_input": 459575,
+    "usage_output": 481328
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "20.02.2024",
+    "usage_input": 371424,
+    "usage_output": 414601
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "14.01.2024",
+    "usage_input": 381721,
+    "usage_output": 385140
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "04.03.2024",
+    "usage_input": 346369,
+    "usage_output": 333954
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "06.01.2024",
+    "usage_input": 466372,
+    "usage_output": 479611
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "09.02.2024",
+    "usage_input": 436477,
+    "usage_output": 416888
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "26.01.2024",
+    "usage_input": 419731,
+    "usage_output": 414875
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "14.03.2024",
+    "usage_input": 462131,
+    "usage_output": 400850
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "22.03.2024",
+    "usage_input": 422063,
+    "usage_output": 430555
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "03.02.2024",
+    "usage_input": 328197,
+    "usage_output": 339050
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "10.05.2024",
+    "usage_input": 349342,
+    "usage_output": 369929
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "03.03.2024",
+    "usage_input": 498422,
+    "usage_output": 482527
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "19.03.2024",
+    "usage_input": 315564,
+    "usage_output": 327127
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "01.01.2024",
+    "usage_input": 375328,
+    "usage_output": 372670
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "15.03.2024",
+    "usage_input": 411461,
+    "usage_output": 410608
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "01.01.2024",
+    "usage_input": 422558,
+    "usage_output": 427567
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "05.02.2024",
+    "usage_input": 456854,
+    "usage_output": 452322
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "14.04.2024",
+    "usage_input": 376948,
+    "usage_output": 425197
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "02.04.2024",
+    "usage_input": 442527,
+    "usage_output": 470328
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "29.03.2024",
+    "usage_input": 489836,
+    "usage_output": 406176
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "15.01.2024",
+    "usage_input": 449600,
+    "usage_output": 467990
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "31.03.2024",
+    "usage_input": 390855,
+    "usage_output": 391568
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "07.01.2024",
+    "usage_input": 421956,
+    "usage_output": 455706
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "08.05.2024",
+    "usage_input": 372979,
+    "usage_output": 367058
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "07.04.2024",
+    "usage_input": 367417,
+    "usage_output": 413285
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "17.01.2024",
+    "usage_input": 390869,
+    "usage_output": 352627
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "16.04.2024",
+    "usage_input": 335129,
+    "usage_output": 355486
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "19.04.2024",
+    "usage_input": 548520,
+    "usage_output": 535489
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "31.03.2024",
+    "usage_input": 441136,
+    "usage_output": 399117
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "07.05.2024",
+    "usage_input": 453297,
+    "usage_output": 463403
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "15.05.2024",
+    "usage_input": 323591,
+    "usage_output": 375374
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "12.03.2024",
+    "usage_input": 279019,
+    "usage_output": 291700
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "20.04.2024",
+    "usage_input": 341635,
+    "usage_output": 412339
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "20.02.2024",
+    "usage_input": 389561,
+    "usage_output": 442514
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "07.04.2024",
+    "usage_input": 438670,
+    "usage_output": 448707
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "08.01.2024",
+    "usage_input": 287760,
+    "usage_output": 354862
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "17.01.2024",
+    "usage_input": 359165,
+    "usage_output": 357695
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "17.02.2024",
+    "usage_input": 446638,
+    "usage_output": 389930
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "05.03.2024",
+    "usage_input": 473469,
+    "usage_output": 471762
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "24.02.2024",
+    "usage_input": 478843,
+    "usage_output": 551637
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "01.02.2024",
+    "usage_input": 473027,
+    "usage_output": 455205
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "21.04.2024",
+    "usage_input": 387295,
+    "usage_output": 372493
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "11.04.2024",
+    "usage_input": 322256,
+    "usage_output": 394693
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "13.01.2024",
+    "usage_input": 398297,
+    "usage_output": 375747
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "15.01.2024",
+    "usage_input": 338656,
+    "usage_output": 320652
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "04.05.2024",
+    "usage_input": 418479,
+    "usage_output": 433935
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "21.04.2024",
+    "usage_input": 449162,
+    "usage_output": 452441
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "05.03.2024",
+    "usage_input": 483759,
+    "usage_output": 434698
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "01.05.2024",
+    "usage_input": 415812,
+    "usage_output": 390394
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "26.02.2024",
+    "usage_input": 397634,
+    "usage_output": 403742
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "22.04.2024",
+    "usage_input": 394549,
+    "usage_output": 401546
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "17.03.2024",
+    "usage_input": 337700,
+    "usage_output": 373944
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "10.01.2024",
+    "usage_input": 326072,
+    "usage_output": 339230
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "19.04.2024",
+    "usage_input": 423857,
+    "usage_output": 459870
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "27.04.2024",
+    "usage_input": 343720,
+    "usage_output": 350379
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "22.01.2024",
+    "usage_input": 461234,
+    "usage_output": 492880
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "20.03.2024",
+    "usage_input": 480645,
+    "usage_output": 396452
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "21.02.2024",
+    "usage_input": 434923,
+    "usage_output": 420262
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "28.04.2024",
+    "usage_input": 423963,
+    "usage_output": 441440
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "14.05.2024",
+    "usage_input": 431357,
+    "usage_output": 406520
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "10.04.2024",
+    "usage_input": 472242,
+    "usage_output": 488768
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "12.05.2024",
+    "usage_input": 459890,
+    "usage_output": 445074
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "23.03.2024",
+    "usage_input": 403409,
+    "usage_output": 420888
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "10.02.2024",
+    "usage_input": 416946,
+    "usage_output": 457124
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "29.04.2024",
+    "usage_input": 457309,
+    "usage_output": 460846
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "24.03.2024",
+    "usage_input": 437676,
+    "usage_output": 434733
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "14.01.2024",
+    "usage_input": 407177,
+    "usage_output": 352492
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "09.05.2024",
+    "usage_input": 360517,
+    "usage_output": 358242
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "23.04.2024",
+    "usage_input": 411229,
+    "usage_output": 422968
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "26.01.2024",
+    "usage_input": 326417,
+    "usage_output": 325929
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "09.02.2024",
+    "usage_input": 479539,
+    "usage_output": 433539
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "30.01.2024",
+    "usage_input": 334851,
+    "usage_output": 375983
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "11.04.2024",
+    "usage_input": 429777,
+    "usage_output": 402368
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "11.03.2024",
+    "usage_input": 357799,
+    "usage_output": 403887
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "10.05.2024",
+    "usage_input": 429887,
+    "usage_output": 395854
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "26.04.2024",
+    "usage_input": 346104,
+    "usage_output": 318633
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "16.04.2024",
+    "usage_input": 436247,
+    "usage_output": 354306
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "20.02.2024",
+    "usage_input": 289519,
+    "usage_output": 371233
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "16.05.2024",
+    "usage_input": 524889,
+    "usage_output": 467835
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "04.02.2024",
+    "usage_input": 443265,
+    "usage_output": 421989
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "02.05.2024",
+    "usage_input": 481072,
+    "usage_output": 427891
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "10.04.2024",
+    "usage_input": 412355,
+    "usage_output": 435398
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "23.04.2024",
+    "usage_input": 366630,
+    "usage_output": 421738
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "25.03.2024",
+    "usage_input": 413827,
+    "usage_output": 390128
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "01.04.2024",
+    "usage_input": 407566,
+    "usage_output": 416194
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "08.03.2024",
+    "usage_input": 444873,
+    "usage_output": 478659
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "18.03.2024",
+    "usage_input": 426947,
+    "usage_output": 384264
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "03.02.2024",
+    "usage_input": 338900,
+    "usage_output": 334986
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "23.01.2024",
+    "usage_input": 417117,
+    "usage_output": 466288
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "29.04.2024",
+    "usage_input": 428754,
+    "usage_output": 425478
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "20.03.2024",
+    "usage_input": 392316,
+    "usage_output": 339682
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "16.01.2024",
+    "usage_input": 400486,
+    "usage_output": 442428
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "25.01.2024",
+    "usage_input": 415090,
+    "usage_output": 464221
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "11.02.2024",
+    "usage_input": 368954,
+    "usage_output": 366237
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "24.02.2024",
+    "usage_input": 434653,
+    "usage_output": 380545
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "29.04.2024",
+    "usage_input": 381355,
+    "usage_output": 433553
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "02.01.2024",
+    "usage_input": 291861,
+    "usage_output": 335805
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "25.02.2024",
+    "usage_input": 487749,
+    "usage_output": 509235
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "10.02.2024",
+    "usage_input": 391542,
+    "usage_output": 415982
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "31.03.2024",
+    "usage_input": 432003,
+    "usage_output": 417627
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "16.01.2024",
+    "usage_input": 418702,
+    "usage_output": 354827
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "12.02.2024",
+    "usage_input": 428177,
+    "usage_output": 389681
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "27.02.2024",
+    "usage_input": 340670,
+    "usage_output": 397278
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "09.03.2024",
+    "usage_input": 334938,
+    "usage_output": 367993
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "07.01.2024",
+    "usage_input": 456742,
+    "usage_output": 430130
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "03.04.2024",
+    "usage_input": 379794,
+    "usage_output": 439696
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "31.01.2024",
+    "usage_input": 363513,
+    "usage_output": 406271
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "13.04.2024",
+    "usage_input": 385048,
+    "usage_output": 358403
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "11.01.2024",
+    "usage_input": 426250,
+    "usage_output": 457771
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "15.01.2024",
+    "usage_input": 478740,
+    "usage_output": 445324
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "02.05.2024",
+    "usage_input": 393724,
+    "usage_output": 414090
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "02.03.2024",
+    "usage_input": 395057,
+    "usage_output": 420316
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "12.03.2024",
+    "usage_input": 361851,
+    "usage_output": 356655
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "06.03.2024",
+    "usage_input": 450555,
+    "usage_output": 511537
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "04.04.2024",
+    "usage_input": 352293,
+    "usage_output": 334963
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "14.03.2024",
+    "usage_input": 434243,
+    "usage_output": 430017
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "19.01.2024",
+    "usage_input": 376961,
+    "usage_output": 370662
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "10.05.2024",
+    "usage_input": 376527,
+    "usage_output": 363378
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "11.01.2024",
+    "usage_input": 402277,
+    "usage_output": 356499
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "18.01.2024",
+    "usage_input": 365684,
+    "usage_output": 369865
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "27.01.2024",
+    "usage_input": 396596,
+    "usage_output": 361847
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "13.04.2024",
+    "usage_input": 374599,
+    "usage_output": 364296
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "15.05.2024",
+    "usage_input": 412310,
+    "usage_output": 411289
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "03.01.2024",
+    "usage_input": 420009,
+    "usage_output": 451301
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "11.03.2024",
+    "usage_input": 388798,
+    "usage_output": 328444
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "20.02.2024",
+    "usage_input": 296425,
+    "usage_output": 368345
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "18.01.2024",
+    "usage_input": 489302,
+    "usage_output": 444815
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "28.02.2024",
+    "usage_input": 447051,
+    "usage_output": 376214
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "05.02.2024",
+    "usage_input": 382850,
+    "usage_output": 351981
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "01.02.2024",
+    "usage_input": 422603,
+    "usage_output": 405282
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "25.04.2024",
+    "usage_input": 289402,
+    "usage_output": 320286
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "09.01.2024",
+    "usage_input": 291363,
+    "usage_output": 304854
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "09.02.2024",
+    "usage_input": 391928,
+    "usage_output": 395311
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "16.05.2024",
+    "usage_input": 441095,
+    "usage_output": 427559
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "06.01.2024",
+    "usage_input": 291999,
+    "usage_output": 323522
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "25.01.2024",
+    "usage_input": 385429,
+    "usage_output": 423681
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "24.02.2024",
+    "usage_input": 429845,
+    "usage_output": 382479
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "16.01.2024",
+    "usage_input": 427500,
+    "usage_output": 421542
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "12.05.2024",
+    "usage_input": 390500,
+    "usage_output": 387142
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "03.05.2024",
+    "usage_input": 366180,
+    "usage_output": 351089
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "30.04.2024",
+    "usage_input": 429389,
+    "usage_output": 457623
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "08.04.2024",
+    "usage_input": 385427,
+    "usage_output": 402384
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "10.03.2024",
+    "usage_input": 381379,
+    "usage_output": 429018
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "02.05.2024",
+    "usage_input": 403608,
+    "usage_output": 364786
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "29.04.2024",
+    "usage_input": 439097,
+    "usage_output": 382413
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "07.03.2024",
+    "usage_input": 405082,
+    "usage_output": 417719
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "01.05.2024",
+    "usage_input": 343530,
+    "usage_output": 348748
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "03.04.2024",
+    "usage_input": 487780,
+    "usage_output": 457178
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "27.04.2024",
+    "usage_input": 399908,
+    "usage_output": 351425
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "08.02.2024",
+    "usage_input": 364620,
+    "usage_output": 387923
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "08.03.2024",
+    "usage_input": 409734,
+    "usage_output": 414330
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "28.02.2024",
+    "usage_input": 393813,
+    "usage_output": 422057
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "07.04.2024",
+    "usage_input": 450395,
+    "usage_output": 365345
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "29.01.2024",
+    "usage_input": 345724,
+    "usage_output": 314654
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "09.03.2024",
+    "usage_input": 418711,
+    "usage_output": 404997
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "14.02.2024",
+    "usage_input": 361347,
+    "usage_output": 357785
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "18.04.2024",
+    "usage_input": 458202,
+    "usage_output": 424701
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "04.04.2024",
+    "usage_input": 390541,
+    "usage_output": 389652
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "08.01.2024",
+    "usage_input": 434781,
+    "usage_output": 431662
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "24.04.2024",
+    "usage_input": 406558,
+    "usage_output": 424653
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "28.04.2024",
+    "usage_input": 446927,
+    "usage_output": 376956
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "19.01.2024",
+    "usage_input": 497997,
+    "usage_output": 457639
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "12.04.2024",
+    "usage_input": 454976,
+    "usage_output": 367331
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "17.04.2024",
+    "usage_input": 386878,
+    "usage_output": 360851
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "06.03.2024",
+    "usage_input": 398056,
+    "usage_output": 376545
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "22.04.2024",
+    "usage_input": 352923,
+    "usage_output": 366827
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "13.05.2024",
+    "usage_input": 439540,
+    "usage_output": 398376
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "07.03.2024",
+    "usage_input": 368852,
+    "usage_output": 373360
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "27.04.2024",
+    "usage_input": 459136,
+    "usage_output": 452648
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "07.04.2024",
+    "usage_input": 387794,
+    "usage_output": 347743
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "30.03.2024",
+    "usage_input": 394475,
+    "usage_output": 356363
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "14.04.2024",
+    "usage_input": 444696,
+    "usage_output": 437381
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "21.01.2024",
+    "usage_input": 484475,
+    "usage_output": 470105
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "26.01.2024",
+    "usage_input": 418411,
+    "usage_output": 394116
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "03.05.2024",
+    "usage_input": 482810,
+    "usage_output": 481541
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "15.05.2024",
+    "usage_input": 411747,
+    "usage_output": 394082
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "01.03.2024",
+    "usage_input": 410739,
+    "usage_output": 428646
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "19.02.2024",
+    "usage_input": 462688,
+    "usage_output": 379558
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "07.01.2024",
+    "usage_input": 433505,
+    "usage_output": 463869
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "12.01.2024",
+    "usage_input": 305249,
+    "usage_output": 348484
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "30.03.2024",
+    "usage_input": 456376,
+    "usage_output": 425997
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "07.03.2024",
+    "usage_input": 364257,
+    "usage_output": 385923
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "23.01.2024",
+    "usage_input": 367228,
+    "usage_output": 354949
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "08.01.2024",
+    "usage_input": 431573,
+    "usage_output": 446281
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "14.02.2024",
+    "usage_input": 508465,
+    "usage_output": 463453
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "31.01.2024",
+    "usage_input": 313725,
+    "usage_output": 287275
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "14.05.2024",
+    "usage_input": 375285,
+    "usage_output": 369611
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "02.01.2024",
+    "usage_input": 414406,
+    "usage_output": 432426
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "27.03.2024",
+    "usage_input": 464875,
+    "usage_output": 415114
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "27.04.2024",
+    "usage_input": 474554,
+    "usage_output": 500947
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "07.01.2024",
+    "usage_input": 385352,
+    "usage_output": 416553
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "25.04.2024",
+    "usage_input": 409264,
+    "usage_output": 440064
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "24.02.2024",
+    "usage_input": 403076,
+    "usage_output": 454116
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "28.01.2024",
+    "usage_input": 385482,
+    "usage_output": 382689
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "20.02.2024",
+    "usage_input": 423412,
+    "usage_output": 388162
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "14.02.2024",
+    "usage_input": 368632,
+    "usage_output": 332711
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "22.03.2024",
+    "usage_input": 428419,
+    "usage_output": 403679
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "21.02.2024",
+    "usage_input": 315684,
+    "usage_output": 362028
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "11.02.2024",
+    "usage_input": 401796,
+    "usage_output": 386214
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "24.04.2024",
+    "usage_input": 435574,
+    "usage_output": 427821
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "24.01.2024",
+    "usage_input": 399679,
+    "usage_output": 410938
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "21.04.2024",
+    "usage_input": 480288,
+    "usage_output": 545162
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "25.01.2024",
+    "usage_input": 304667,
+    "usage_output": 370808
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "10.04.2024",
+    "usage_input": 395614,
+    "usage_output": 367884
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "07.01.2024",
+    "usage_input": 466867,
+    "usage_output": 430262
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "04.03.2024",
+    "usage_input": 375793,
+    "usage_output": 349750
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "04.05.2024",
+    "usage_input": 452230,
+    "usage_output": 449384
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "14.04.2024",
+    "usage_input": 451496,
+    "usage_output": 415611
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "01.03.2024",
+    "usage_input": 474882,
+    "usage_output": 519433
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "27.02.2024",
+    "usage_input": 458016,
+    "usage_output": 419797
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "24.04.2024",
+    "usage_input": 375534,
+    "usage_output": 343414
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "17.04.2024",
+    "usage_input": 360495,
+    "usage_output": 420302
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "02.03.2024",
+    "usage_input": 446236,
+    "usage_output": 416976
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "10.01.2024",
+    "usage_input": 446417,
+    "usage_output": 477197
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "03.04.2024",
+    "usage_input": 369142,
+    "usage_output": 398405
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "20.02.2024",
+    "usage_input": 389275,
+    "usage_output": 312852
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "17.04.2024",
+    "usage_input": 338318,
+    "usage_output": 318279
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "06.04.2024",
+    "usage_input": 456873,
+    "usage_output": 482938
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "22.04.2024",
+    "usage_input": 441137,
+    "usage_output": 416827
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "09.03.2024",
+    "usage_input": 327493,
+    "usage_output": 294191
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "24.03.2024",
+    "usage_input": 433295,
+    "usage_output": 423703
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "14.04.2024",
+    "usage_input": 377863,
+    "usage_output": 364145
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "07.02.2024",
+    "usage_input": 422958,
+    "usage_output": 355846
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "22.01.2024",
+    "usage_input": 324306,
+    "usage_output": 334808
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "20.02.2024",
+    "usage_input": 343226,
+    "usage_output": 322454
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "15.02.2024",
+    "usage_input": 444599,
+    "usage_output": 436463
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "18.04.2024",
+    "usage_input": 411061,
+    "usage_output": 411713
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "15.03.2024",
+    "usage_input": 288701,
+    "usage_output": 273493
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "29.03.2024",
+    "usage_input": 401156,
+    "usage_output": 397908
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "10.03.2024",
+    "usage_input": 420773,
+    "usage_output": 397099
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "13.04.2024",
+    "usage_input": 377902,
+    "usage_output": 325568
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "11.01.2024",
+    "usage_input": 367333,
+    "usage_output": 385356
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "07.04.2024",
+    "usage_input": 374232,
+    "usage_output": 355017
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "22.03.2024",
+    "usage_input": 439683,
+    "usage_output": 429303
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "13.05.2024",
+    "usage_input": 415663,
+    "usage_output": 361426
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "01.03.2024",
+    "usage_input": 353443,
+    "usage_output": 377139
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "19.03.2024",
+    "usage_input": 361535,
+    "usage_output": 398499
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "26.03.2024",
+    "usage_input": 321938,
+    "usage_output": 343669
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "19.01.2024",
+    "usage_input": 306235,
+    "usage_output": 367859
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "05.03.2024",
+    "usage_input": 325176,
+    "usage_output": 361124
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "04.05.2024",
+    "usage_input": 417487,
+    "usage_output": 390920
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "26.03.2024",
+    "usage_input": 343771,
+    "usage_output": 381103
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "16.05.2024",
+    "usage_input": 465751,
+    "usage_output": 504627
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "26.04.2024",
+    "usage_input": 422486,
+    "usage_output": 395134
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "11.03.2024",
+    "usage_input": 319387,
+    "usage_output": 376232
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "08.02.2024",
+    "usage_input": 353799,
+    "usage_output": 326165
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "08.05.2024",
+    "usage_input": 385356,
+    "usage_output": 407522
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "01.05.2024",
+    "usage_input": 379177,
+    "usage_output": 402140
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "09.03.2024",
+    "usage_input": 443685,
+    "usage_output": 441327
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "19.04.2024",
+    "usage_input": 440881,
+    "usage_output": 478092
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "19.03.2024",
+    "usage_input": 412065,
+    "usage_output": 348558
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "08.03.2024",
+    "usage_input": 384546,
+    "usage_output": 408122
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "06.01.2024",
+    "usage_input": 463450,
+    "usage_output": 388715
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "11.04.2024",
+    "usage_input": 470397,
+    "usage_output": 448360
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "22.02.2024",
+    "usage_input": 361678,
+    "usage_output": 339414
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "10.04.2024",
+    "usage_input": 434168,
+    "usage_output": 464063
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "11.02.2024",
+    "usage_input": 407060,
+    "usage_output": 377094
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "16.05.2024",
+    "usage_input": 353366,
+    "usage_output": 380821
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "21.03.2024",
+    "usage_input": 434311,
+    "usage_output": 368895
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "02.01.2024",
+    "usage_input": 466920,
+    "usage_output": 467065
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "26.02.2024",
+    "usage_input": 309946,
+    "usage_output": 288222
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "02.03.2024",
+    "usage_input": 363863,
+    "usage_output": 371608
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "10.04.2024",
+    "usage_input": 373912,
+    "usage_output": 346537
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "22.02.2024",
+    "usage_input": 335611,
+    "usage_output": 375465
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "14.05.2024",
+    "usage_input": 426496,
+    "usage_output": 370606
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "16.03.2024",
+    "usage_input": 449345,
+    "usage_output": 421072
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "04.04.2024",
+    "usage_input": 317092,
+    "usage_output": 314745
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "10.04.2024",
+    "usage_input": 382544,
+    "usage_output": 392909
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "20.03.2024",
+    "usage_input": 392750,
+    "usage_output": 379998
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "16.04.2024",
+    "usage_input": 483248,
+    "usage_output": 503349
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "18.04.2024",
+    "usage_input": 452743,
+    "usage_output": 480605
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "05.03.2024",
+    "usage_input": 381192,
+    "usage_output": 408666
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "23.04.2024",
+    "usage_input": 369437,
+    "usage_output": 422610
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "06.01.2024",
+    "usage_input": 449854,
+    "usage_output": 456336
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "21.01.2024",
+    "usage_input": 373533,
+    "usage_output": 376066
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "10.03.2024",
+    "usage_input": 445221,
+    "usage_output": 403865
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "26.01.2024",
+    "usage_input": 448230,
+    "usage_output": 442599
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "16.01.2024",
+    "usage_input": 408346,
+    "usage_output": 342935
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "20.03.2024",
+    "usage_input": 394865,
+    "usage_output": 406030
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "15.04.2024",
+    "usage_input": 405753,
+    "usage_output": 389773
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "31.01.2024",
+    "usage_input": 372514,
+    "usage_output": 400813
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "12.02.2024",
+    "usage_input": 360560,
+    "usage_output": 366175
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "24.04.2024",
+    "usage_input": 373681,
+    "usage_output": 405088
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "15.02.2024",
+    "usage_input": 390094,
+    "usage_output": 327597
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "17.02.2024",
+    "usage_input": 417951,
+    "usage_output": 379932
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "12.02.2024",
+    "usage_input": 318777,
+    "usage_output": 306965
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "06.05.2024",
+    "usage_input": 419066,
+    "usage_output": 443319
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "06.04.2024",
+    "usage_input": 418933,
+    "usage_output": 350610
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "10.01.2024",
+    "usage_input": 435661,
+    "usage_output": 403463
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "04.02.2024",
+    "usage_input": 376596,
+    "usage_output": 368375
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "24.03.2024",
+    "usage_input": 375686,
+    "usage_output": 381707
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "09.02.2024",
+    "usage_input": 378318,
+    "usage_output": 415971
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "31.01.2024",
+    "usage_input": 393237,
+    "usage_output": 420075
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "25.03.2024",
+    "usage_input": 427669,
+    "usage_output": 395273
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "25.04.2024",
+    "usage_input": 329199,
+    "usage_output": 392231
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "02.05.2024",
+    "usage_input": 485132,
+    "usage_output": 444317
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "19.02.2024",
+    "usage_input": 448089,
+    "usage_output": 488749
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "29.04.2024",
+    "usage_input": 523097,
+    "usage_output": 492037
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "17.02.2024",
+    "usage_input": 335382,
+    "usage_output": 391959
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "27.03.2024",
+    "usage_input": 370014,
+    "usage_output": 396501
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "11.02.2024",
+    "usage_input": 468887,
+    "usage_output": 508027
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "16.02.2024",
+    "usage_input": 333480,
+    "usage_output": 346659
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "11.01.2024",
+    "usage_input": 398334,
+    "usage_output": 425553
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "03.04.2024",
+    "usage_input": 325632,
+    "usage_output": 343771
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "11.03.2024",
+    "usage_input": 459306,
+    "usage_output": 419661
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "16.05.2024",
+    "usage_input": 340594,
+    "usage_output": 355652
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "04.05.2024",
+    "usage_input": 341927,
+    "usage_output": 386752
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "14.02.2024",
+    "usage_input": 421048,
+    "usage_output": 415327
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "02.03.2024",
+    "usage_input": 451661,
+    "usage_output": 468258
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "20.01.2024",
+    "usage_input": 392449,
+    "usage_output": 373438
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "21.03.2024",
+    "usage_input": 467642,
+    "usage_output": 409299
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "09.04.2024",
+    "usage_input": 456809,
+    "usage_output": 492944
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "28.02.2024",
+    "usage_input": 359526,
+    "usage_output": 341795
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "07.03.2024",
+    "usage_input": 456458,
+    "usage_output": 461003
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "14.03.2024",
+    "usage_input": 388019,
+    "usage_output": 359024
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "30.03.2024",
+    "usage_input": 485662,
+    "usage_output": 476781
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "25.03.2024",
+    "usage_input": 424869,
+    "usage_output": 451875
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "06.04.2024",
+    "usage_input": 363604,
+    "usage_output": 403692
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "30.01.2024",
+    "usage_input": 463939,
+    "usage_output": 411516
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "02.03.2024",
+    "usage_input": 484283,
+    "usage_output": 473975
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "05.02.2024",
+    "usage_input": 370702,
+    "usage_output": 383340
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "08.04.2024",
+    "usage_input": 400897,
+    "usage_output": 407901
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "03.05.2024",
+    "usage_input": 412084,
+    "usage_output": 408094
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "08.01.2024",
+    "usage_input": 510541,
+    "usage_output": 438516
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "24.03.2024",
+    "usage_input": 451078,
+    "usage_output": 444737
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "21.02.2024",
+    "usage_input": 449255,
+    "usage_output": 409198
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "25.04.2024",
+    "usage_input": 456089,
+    "usage_output": 474835
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "18.01.2024",
+    "usage_input": 330677,
+    "usage_output": 342209
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "25.03.2024",
+    "usage_input": 351257,
+    "usage_output": 381893
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "06.01.2024",
+    "usage_input": 380620,
+    "usage_output": 351875
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "03.01.2024",
+    "usage_input": 389220,
+    "usage_output": 404085
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "22.03.2024",
+    "usage_input": 413477,
+    "usage_output": 405309
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "28.01.2024",
+    "usage_input": 399291,
+    "usage_output": 379141
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "09.02.2024",
+    "usage_input": 431000,
+    "usage_output": 408488
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "29.02.2024",
+    "usage_input": 387052,
+    "usage_output": 382918
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "14.01.2024",
+    "usage_input": 334711,
+    "usage_output": 312554
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "12.03.2024",
+    "usage_input": 460546,
+    "usage_output": 432524
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "22.01.2024",
+    "usage_input": 413266,
+    "usage_output": 437728
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "29.02.2024",
+    "usage_input": 456405,
+    "usage_output": 446953
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "18.03.2024",
+    "usage_input": 415963,
+    "usage_output": 488299
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "21.02.2024",
+    "usage_input": 431476,
+    "usage_output": 432543
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "12.01.2024",
+    "usage_input": 415966,
+    "usage_output": 441789
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "13.04.2024",
+    "usage_input": 304212,
+    "usage_output": 294100
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "18.02.2024",
+    "usage_input": 474253,
+    "usage_output": 468325
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "11.05.2024",
+    "usage_input": 439592,
+    "usage_output": 394514
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "02.05.2024",
+    "usage_input": 360719,
+    "usage_output": 316479
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "20.04.2024",
+    "usage_input": 383168,
+    "usage_output": 405145
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "13.02.2024",
+    "usage_input": 335783,
+    "usage_output": 364856
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "14.03.2024",
+    "usage_input": 455806,
+    "usage_output": 460166
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "28.03.2024",
+    "usage_input": 422386,
+    "usage_output": 362826
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "07.03.2024",
+    "usage_input": 348318,
+    "usage_output": 373623
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "25.03.2024",
+    "usage_input": 419875,
+    "usage_output": 391118
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "10.02.2024",
+    "usage_input": 372095,
+    "usage_output": 358273
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "15.05.2024",
+    "usage_input": 471026,
+    "usage_output": 454451
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "19.02.2024",
+    "usage_input": 331039,
+    "usage_output": 344298
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "12.03.2024",
+    "usage_input": 448059,
+    "usage_output": 441636
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "12.04.2024",
+    "usage_input": 390210,
+    "usage_output": 432481
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "16.01.2024",
+    "usage_input": 365490,
+    "usage_output": 388970
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "13.03.2024",
+    "usage_input": 359423,
+    "usage_output": 349319
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "12.01.2024",
+    "usage_input": 344070,
+    "usage_output": 346943
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "16.03.2024",
+    "usage_input": 410634,
+    "usage_output": 373537
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "03.03.2024",
+    "usage_input": 456211,
+    "usage_output": 454129
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "13.05.2024",
+    "usage_input": 405233,
+    "usage_output": 402167
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "13.01.2024",
+    "usage_input": 386946,
+    "usage_output": 388979
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "19.04.2024",
+    "usage_input": 508109,
+    "usage_output": 509162
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "16.04.2024",
+    "usage_input": 416926,
+    "usage_output": 387953
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "16.03.2024",
+    "usage_input": 358680,
+    "usage_output": 428466
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "19.02.2024",
+    "usage_input": 446207,
+    "usage_output": 424637
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "16.02.2024",
+    "usage_input": 330261,
+    "usage_output": 329061
+  },
+  {
+    "type": "third",
+    "model": "model3",
+    "created_at": "01.05.2024",
+    "usage_input": 339642,
+    "usage_output": 316626
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "05.04.2024",
+    "usage_input": 417143,
+    "usage_output": 450538
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "25.04.2024",
+    "usage_input": 442452,
+    "usage_output": 439539
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "03.02.2024",
+    "usage_input": 371445,
+    "usage_output": 389264
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "12.05.2024",
+    "usage_input": 317136,
+    "usage_output": 396836
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "07.03.2024",
+    "usage_input": 369692,
+    "usage_output": 381030
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "18.02.2024",
+    "usage_input": 360576,
+    "usage_output": 412507
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "07.05.2024",
+    "usage_input": 402045,
+    "usage_output": 381384
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "19.03.2024",
+    "usage_input": 349886,
+    "usage_output": 341163
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "17.03.2024",
+    "usage_input": 355528,
+    "usage_output": 401108
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "05.02.2024",
+    "usage_input": 368630,
+    "usage_output": 330814
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "12.03.2024",
+    "usage_input": 321207,
+    "usage_output": 421895
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "24.02.2024",
+    "usage_input": 437772,
+    "usage_output": 414662
+  },
+  {
+    "type": "first",
+    "model": "model2",
+    "created_at": "03.01.2024",
+    "usage_input": 405852,
+    "usage_output": 409229
+  },
+  {
+    "type": "first",
+    "model": "model3",
+    "created_at": "10.01.2024",
+    "usage_input": 428084,
+    "usage_output": 383321
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "15.01.2024",
+    "usage_input": 324574,
+    "usage_output": 342116
+  },
+  {
+    "type": "third",
+    "model": "model2",
+    "created_at": "06.04.2024",
+    "usage_input": 408656,
+    "usage_output": 431204
+  },
+  {
+    "type": "second",
+    "model": "model3",
+    "created_at": "27.01.2024",
+    "usage_input": 492259,
+    "usage_output": 480389
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "12.04.2024",
+    "usage_input": 371910,
+    "usage_output": 427710
+  },
+  {
+    "type": "second",
+    "model": "model2",
+    "created_at": "15.04.2024",
+    "usage_input": 394945,
+    "usage_output": 411492
+  },
+  {
+    "type": "second",
+    "model": "model1",
+    "created_at": "02.03.2024",
+    "usage_input": 452337,
+    "usage_output": 453057
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "04.05.2024",
+    "usage_input": 369300,
+    "usage_output": 383367
+  },
+  {
+    "type": "first",
+    "model": "model1",
+    "created_at": "23.04.2024",
+    "usage_input": 337784,
+    "usage_output": 359623
+  },
+  {
+    "type": "third",
+    "model": "model1",
+    "created_at": "26.02.2024",
+    "usage_input": 304332,
+    "usage_output": 333456
+  }
+]

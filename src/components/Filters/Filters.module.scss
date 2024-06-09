@@ -1,0 +1,30 @@
+.filters {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+}
+
+.filter {
+  margin-top: 0;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+  label {
+    display: flex;
+    gap: 5px;
+  }
+
+  label,
+  input {
+    &:hover {
+      cursor: pointer;
+    }
+  }
+
+  p {
+    margin-top: 0;
+    margin-bottom: 5px;
+  }
+}

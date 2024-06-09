@@ -1,0 +1,15 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.error {
+  flex-grow: 1;
+  display: flex;
+
+  h2 {
+    margin: auto;
+    color: tomato;
+  }
+}
