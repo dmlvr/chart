@@ -8,7 +8,8 @@ import useChart from "./Chart.controller";
 import Filters from "../Filters/Filters";
 
 function Chart(props: Props) {
-  const { usages, types, models, windowSize } = useChart(props);
+  const { usages, types, models, windowSize, resetHandler, chartSize } =
+    useChart(props);
 
   return (
     <div
@@ -24,25 +25,20 @@ function Chart(props: Props) {
           <BarChart
             key="chart-BarChart"
             data={usages}
-            width={windowSize.width - 200}
-            height={windowSize.height - 120}
+            width={chartSize.width}
+            height={chartSize.height}
           >
             <CartesianGrid strokeDasharray="3 3" key={"chart-grid"} />
             <XAxis dataKey="created_at" key={"chart-XAxis"} />
-            <YAxis
-              key={"chart-YAxis"}
-              // domain={[0, 26000]}
-            />
+            <YAxis key={"chart-YAxis"} />
             <Tooltip key="chart-Tooltip" />
             <Bar key={"chart-Bar"} dataKey="cost_of_usages" fill="#ecb939" />
           </BarChart>
         </div>
       ) : (
         <div className={styles["error"]}>
-          <h2>
-            По указаной Вами комбинации фильтров ничего не найдено. Попробуйте
-            сбросить фильтры.
-          </h2>
+          <h2>По указаной Вами комбинации фильтров ничего не найдено.</h2>
+          <button onClick={resetHandler}>сбросить фильтры</button>
         </div>
       )}
     </div>

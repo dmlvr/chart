@@ -15,7 +15,7 @@ function Filters({ types, models }: Props) {
     <div className={styles["filters"]}>
       {types && types.length > 0 && (
         <div className={styles["filter"]}>
-          <p>Type:</p>
+          <p>Filter type:</p>
           {types.map((type) => (
             <label key={type}>
               <input
@@ -33,7 +33,7 @@ function Filters({ types, models }: Props) {
       )}
       {models && models.length > 0 && (
         <div className={styles["filter"]}>
-          <p>Model:</p>
+          <p>Filter model:</p>
           {models.map((model) => (
             <label key={model}>
               <input
