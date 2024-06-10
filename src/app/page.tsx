@@ -4,12 +4,11 @@ import Error from "@/components/Error";
 import { CostObj, UsagWithSort } from "@/types";
 import dynamic from "next/dynamic";
 import styles from "./page.module.scss";
+import { BASE_PATH } from "@/const";
 
 export default async function Home() {
   try {
-    const responce = await fetch(
-      `http://localhost:${process.env.PORT}/api/getData`
-    );
+    const responce = await fetch(`${BASE_PATH}/api/getData`);
     if (responce.ok) {
       const { costs, usages } = await responce.json();
       const Chart = dynamic(() => import("@/components/Chart"), { ssr: false });
