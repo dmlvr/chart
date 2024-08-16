@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "PORT=3462 next dev",
+    "dev": "PORT=24278 next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
